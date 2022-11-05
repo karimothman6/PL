@@ -1,0 +1,43 @@
+,For Watford,For Watford,For Watford,For Watford,For Watford,For Watford,For Watford,For Watford,For Watford,Total,Total,Total,Total,Total,Short,Short,Short,Medium,Medium,Medium,Long,Long,Long,Unnamed: 23_level_0,Unnamed: 24_level_0,Unnamed: 25_level_0,Unnamed: 26_level_0,Unnamed: 27_level_0,Unnamed: 28_level_0,Unnamed: 29_level_0,Unnamed: 30_level_0,Unnamed: 31_level_0
+,Date,Time,Round,Day,Venue,Result,GF,GA,Opponent,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Ast,xAG,xA,KP,1/3,PPA,CrsPA,Prog,Match Report
+0,2019-08-10,15:00 (16:00),Matchweek 1,Sat,Home,L,0,3,Brighton,349,456,76.5,5654,2213,179,208,86.1,112,145,77.2,38,65,58.5,0,0.4,1.0,5,29,9,3,33,Match Report
+1,2019-08-17,15:00 (16:00),Matchweek 2,Sat,Away,L,0,1,Everton,318,449,70.8,5757,2308,150,185,81.1,109,139,78.4,43,90,47.8,0,0.9,1.0,6,28,10,4,29,Match Report
+2,2019-08-24,15:00 (16:00),Matchweek 3,Sat,Home,L,1,3,West Ham,419,516,81.2,7097,2808,186,210,88.6,176,205,85.9,38,67,56.7,1,2.3,1.7,22,37,21,3,50,Match Report
+3,2019-08-31,15:00 (16:00),Matchweek 4,Sat,Away,D,1,1,Newcastle Utd,409,535,76.4,6691,2375,202,231,87.4,153,178,86.0,37,89,41.6,0,0.4,0.7,8,21,7,1,35,Match Report
+4,2019-09-15,16:30 (17:30),Matchweek 5,Sun,Home,D,2,2,Arsenal,462,537,86.0,7176,2256,254,275,92.4,146,170,85.9,37,55,67.3,1,1.6,1.4,23,31,10,3,27,Match Report
+5,2019-09-21,15:00 (16:00),Matchweek 6,Sat,Away,L,0,8,Manchester City,283,362,78.2,4697,1409,141,152,92.8,112,123,91.1,24,67,35.8,0,0.4,0.1,4,9,5,0,12,Match Report
+6,2019-09-28,15:00 (16:00),Matchweek 7,Sat,Away,L,0,2,Wolves,564,683,82.6,8946,2633,293,318,92.1,219,247,88.7,36,81,44.4,0,0.6,0.7,11,38,11,2,35,Match Report
+7,2019-10-05,15:00 (16:00),Matchweek 8,Sat,Home,D,0,0,Sheffield Utd,271,402,67.4,4260,1689,150,176,85.2,84,122,68.9,21,73,28.8,0,1.4,0.9,7,20,2,2,14,Match Report
+8,2019-10-19,15:00 (16:00),Matchweek 9,Sat,Away,D,1,1,Tottenham,222,337,65.9,3444,1370,117,144,81.3,65,89,73.0,22,74,29.7,1,0.5,0.2,4,14,2,1,18,Match Report
+9,2019-10-26,15:00 (16:00),Matchweek 10,Sat,Home,D,0,0,Bournemouth,274,384,71.4,5011,2037,126,151,83.4,110,139,79.1,31,68,45.6,0,0.1,0.6,3,25,4,0,24,Match Report
+10,2019-11-02,17:30 (19:30),Matchweek 11,Sat,Home,L,1,2,Chelsea,315,411,76.6,5243,2043,170,195,87.2,108,130,83.1,28,58,48.3,0,0.5,0.5,11,23,6,3,26,Match Report
+11,2019-11-08,20:00 (22:00),Matchweek 12,Fri,Away,W,2,0,Norwich City,249,340,73.2,4176,1895,134,157,85.4,65,77,84.4,31,67,46.3,1,0.7,0.4,8,16,2,1,10,Match Report
+12,2019-11-23,15:00 (17:00),Matchweek 13,Sat,Home,L,0,3,Burnley,336,461,72.9,5402,1845,174,197,88.3,112,152,73.7,29,75,38.7,0,0.7,1.0,11,23,8,3,16,Match Report
+13,2019-11-30,17:30 (19:30),Matchweek 14,Sat,Away,L,1,2,Southampton,233,370,63.0,3783,1634,122,154,79.2,80,121,66.1,21,62,33.9,0,0.2,0.5,4,16,5,3,18,Match Report
+14,2019-12-04,19:30 (21:30),Matchweek 15,Wed,Away,L,0,2,Leicester City,249,376,66.2,4435,1713,126,165,76.4,79,113,69.9,35,71,49.3,0,0.2,0.4,4,14,3,1,12,Match Report
+15,2019-12-07,15:00 (17:00),Matchweek 16,Sat,Home,D,0,0,Crystal Palace,310,443,70.0,6244,2468,131,162,80.9,122,157,77.7,50,108,46.3,0,1.3,0.8,11,31,8,2,26,Match Report
+16,2019-12-14,12:30 (14:30),Matchweek 17,Sat,Away,L,0,2,Liverpool,211,339,62.2,3399,1535,105,137,76.6,60,89,67.4,27,77,35.1,0,0.6,0.3,6,16,5,1,12,Match Report
+17,2019-12-22,14:00 (16:00),Matchweek 18,Sun,Home,W,2,0,Manchester Utd,231,355,65.1,3588,1512,111,140,79.3,89,112,79.5,14,64,21.9,1,0.4,0.5,6,13,6,1,17,Match Report
+18,2019-12-26,15:00 (17:00),Matchweek 19,Thu,Away,D,1,1,Sheffield Utd,285,423,67.4,5067,1954,127,161,78.9,101,139,72.7,36,86,41.9,1,0.4,0.2,3,22,3,0,15,Match Report
+19,2019-12-28,15:00 (17:00),Matchweek 20,Sat,Home,W,3,0,Aston Villa,353,459,76.9,6172,2260,172,191,90.1,127,155,81.9,42,82,51.2,1,1.3,1.2,14,30,6,1,26,Match Report
+20,2020-01-01,15:00 (17:00),Matchweek 21,Wed,Home,W,2,1,Wolves,265,370,71.6,4326,2117,152,175,86.9,68,92,73.9,26,68,38.2,2,1.0,0.4,8,20,5,1,18,Match Report
+21,2020-01-12,14:00 (16:00),Matchweek 22,Sun,Away,W,3,0,Bournemouth,314,451,69.6,5228,2149,161,194,83.0,104,137,75.9,32,73,43.8,2,1.4,1.0,14,19,9,4,30,Match Report
+22,2020-01-18,12:30 (14:30),Matchweek 23,Sat,Home,D,0,0,Tottenham,256,391,65.5,4955,2422,119,153,77.8,90,131,68.7,41,76,53.9,0,1.6,0.7,11,26,10,4,22,Match Report
+23,2020-01-21,19:30 (21:30),Matchweek 24,Tue,Away,L,1,2,Aston Villa,231,356,64.9,4189,1828,114,140,81.4,79,109,72.5,30,83,36.1,1,1.1,0.6,6,23,5,4,17,Match Report
+24,2020-02-01,15:00 (17:00),Matchweek 25,Sat,Home,L,2,3,Everton,266,399,66.7,4412,2250,142,179,79.3,85,123,69.1,25,69,36.2,2,0.6,0.3,6,20,3,0,15,Match Report
+25,For Watford,For Watford,For Watford,For Watford,For Watford,For Watford,For Watford,For Watford,For Watford,Total,Total,Total,Total,Total,Short,Short,Short,Medium,Medium,Medium,Long,Long,Long,,,,,,,,,
+26,Date,Time,Round,Day,Venue,Result,GF,GA,Opponent,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Ast,xAG,xA,KP,1/3,PPA,CrsPA,Prog,Match Report
+27,2020-02-08,17:30 (19:30),Matchweek 26,Sat,Away,D,1,1,Brighton,214,336,63.7,3740,1625,105,135,77.8,76,102,74.5,26,79,32.9,1,0.2,0.3,4,11,4,0,16,Match Report
+28,2020-02-23,14:00 (16:00),Matchweek 27,Sun,Away,L,0,3,Manchester Utd,335,465,72.0,5563,2438,176,206,85.4,103,136,75.7,35,76,46.1,0,0.2,0.4,5,26,4,1,19,Match Report
+29,2020-02-29,17:30 (19:30),Matchweek 28,Sat,Home,W,3,0,Liverpool,215,337,63.8,3777,1892,98,127,77.2,72,106,67.9,27,65,41.5,3,1.7,1.0,10,9,2,2,11,Match Report
+30,2020-03-07,15:00 (17:00),Matchweek 29,Sat,Away,L,0,1,Crystal Palace,376,522,72.0,5809,2448,205,246,83.3,116,162,71.6,30,64,46.9,0,0.3,0.5,7,28,11,2,30,Match Report
+31,2020-06-20,12:30 (13:30),Matchweek 30,Sat,Home,D,1,1,Leicester City,180,301,59.8,3713,2011,90,120,75.0,47,73,64.4,35,83,42.2,1,1.1,1.5,6,21,8,2,14,Match Report
+32,2020-06-25,18:00 (19:00),Matchweek 31,Thu,Away,L,0,1,Burnley,235,398,59.0,4280,1746,119,151,78.8,76,122,62.3,33,103,32.0,0,0.5,0.6,6,22,5,1,12,Match Report
+33,2020-06-28,16:30 (17:30),Matchweek 32,Sun,Home,L,1,3,Southampton,298,455,65.5,5391,2292,141,177,79.7,99,147,67.3,46,100,46.0,0,0.2,0.4,2,23,4,0,19,Match Report
+34,2020-07-04,20:00 (21:00),Matchweek 33,Sat,Away,L,0,3,Chelsea,244,334,73.1,4600,1924,108,128,84.4,93,114,81.6,35,67,52.2,0,0.4,0.3,4,19,3,0,22,Match Report
+35,2020-07-07,18:00 (19:00),Matchweek 34,Tue,Home,W,2,1,Norwich City,300,425,70.6,5388,2183,133,160,83.1,118,155,76.1,37,80,46.3,1,1.0,1.0,6,25,6,2,27,Match Report
+36,2020-07-11,12:30 (13:30),Matchweek 35,Sat,Home,W,2,1,Newcastle Utd,248,367,67.6,4705,2336,111,142,78.2,101,140,72.1,31,65,47.7,0,1.6,1.3,13,16,8,1,28,Match Report
+37,2020-07-17,20:00 (21:00),Matchweek 36,Fri,Away,L,1,3,West Ham,372,506,73.5,6760,2805,177,211,83.9,148,187,79.1,44,87,50.6,0,1.0,0.8,10,41,15,4,46,Match Report
+38,2020-07-21,18:00 (19:00),Matchweek 37,Tue,Home,L,0,4,Manchester City,167,257,65.0,3034,1539,92,105,87.6,48,70,68.6,24,69,34.8,0,0.1,0.0,1,8,2,0,4,Match Report
+39,2020-07-26,16:00 (17:00),Matchweek 38,Sun,Away,L,2,3,Arsenal,371,467,79.4,6655,2818,165,182,90.7,149,167,89.2,47,82,57.3,1,2.5,2.4,13,35,16,6,29,Match Report
+40,,,,,,8-10-20,36,64,,11230,15775,71.2,192767,78780,5578,6640,84.0,3901,5075,76.9,1244,2868,43.4,21,31.7,27.6,303,848,253,69,834,
