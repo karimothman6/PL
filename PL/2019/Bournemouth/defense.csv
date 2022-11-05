@@ -1,0 +1,43 @@
+,For Bournemouth,For Bournemouth,For Bournemouth,For Bournemouth,For Bournemouth,For Bournemouth,For Bournemouth,For Bournemouth,For Bournemouth,Tackles,Tackles,Tackles,Tackles,Tackles,Vs Dribbles,Vs Dribbles,Vs Dribbles,Vs Dribbles,Blocks,Blocks,Blocks,Unnamed: 21_level_0,Unnamed: 22_level_0,Unnamed: 23_level_0,Unnamed: 24_level_0,Unnamed: 25_level_0
+,Date,Time,Round,Day,Venue,Result,GF,GA,Opponent,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Past,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err,Match Report
+0,2019-08-10,15:00 (16:00),Matchweek 1,Sat,Home,D,1,1,Sheffield Utd,18,13,13,3,2,9,15,60.0,6,6,1,5,13,31,15,0,Match Report
+1,2019-08-17,15:00 (16:00),Matchweek 2,Sat,Away,W,2,1,Aston Villa,15,9,8,6,1,1,10,10.0,9,16,5,11,11,26,26,1,Match Report
+2,2019-08-25,14:00 (15:00),Matchweek 3,Sun,Home,L,1,3,Manchester City,8,5,2,4,2,2,9,22.2,7,15,9,6,16,24,23,0,Match Report
+3,2019-08-31,15:00 (16:00),Matchweek 4,Sat,Away,L,1,3,Leicester City,14,11,7,7,0,8,16,50.0,8,12,4,8,22,36,21,1,Match Report
+4,2019-09-15,14:00 (15:00),Matchweek 5,Sun,Home,W,3,1,Everton,18,9,9,7,2,6,16,37.5,10,11,4,7,13,31,37,1,Match Report
+5,2019-09-20,20:00 (21:00),Matchweek 6,Fri,Away,W,3,1,Southampton,8,6,6,2,0,3,11,27.3,8,15,8,7,15,23,27,1,Match Report
+6,2019-09-28,15:00 (16:00),Matchweek 7,Sat,Home,D,2,2,West Ham,8,4,3,3,2,6,12,50.0,6,14,7,7,12,20,21,0,Match Report
+7,2019-10-06,14:00 (15:00),Matchweek 8,Sun,Away,L,0,1,Arsenal,14,8,7,6,1,5,17,29.4,12,17,4,13,19,33,36,0,Match Report
+8,2019-10-19,15:00 (16:00),Matchweek 9,Sat,Home,D,0,0,Norwich City,16,8,4,8,4,8,18,44.4,10,12,3,9,10,26,24,0,Match Report
+9,2019-10-26,15:00 (16:00),Matchweek 10,Sat,Away,D,0,0,Watford,16,9,10,5,1,7,16,43.8,9,9,1,8,15,31,23,1,Match Report
+10,2019-11-02,12:30 (14:30),Matchweek 11,Sat,Home,W,1,0,Manchester Utd,13,7,4,8,1,6,16,37.5,10,13,5,8,19,32,37,0,Match Report
+11,2019-11-09,15:00 (17:00),Matchweek 12,Sat,Away,L,1,2,Newcastle Utd,14,10,9,4,1,6,15,40.0,9,8,6,2,8,22,25,2,Match Report
+12,2019-11-23,15:00 (17:00),Matchweek 13,Sat,Home,L,1,2,Wolves,9,6,2,7,0,4,11,36.4,7,8,4,4,12,21,21,0,Match Report
+13,2019-11-30,15:00 (17:00),Matchweek 14,Sat,Away,L,2,3,Tottenham,8,6,2,5,1,2,19,10.5,17,4,2,2,15,23,20,1,Match Report
+14,2019-12-03,19:30 (21:30),Matchweek 15,Tue,Away,L,0,1,Crystal Palace,26,12,18,6,2,7,18,38.9,11,5,2,3,8,34,17,0,Match Report
+15,2019-12-07,15:00 (17:00),Matchweek 16,Sat,Home,L,0,3,Liverpool,12,7,9,2,1,5,17,29.4,12,7,4,3,16,28,36,0,Match Report
+16,2019-12-14,15:00 (17:00),Matchweek 17,Sat,Away,W,1,0,Chelsea,7,5,6,1,0,3,8,37.5,5,16,8,8,19,26,50,0,Match Report
+17,2019-12-21,15:00 (17:00),Matchweek 18,Sat,Home,L,0,1,Burnley,15,10,7,8,0,7,7,100.0,0,7,1,6,6,21,33,0,Match Report
+18,2019-12-26,15:00 (17:00),Matchweek 19,Thu,Home,D,1,1,Arsenal,16,7,7,8,1,8,16,50.0,8,17,9,8,7,23,27,0,Match Report
+19,2019-12-28,12:30 (14:30),Matchweek 20,Sat,Away,L,0,2,Brighton,18,9,14,4,0,6,17,35.3,11,9,4,5,13,31,31,0,Match Report
+20,2020-01-01,17:30 (19:30),Matchweek 21,Wed,Away,L,0,4,West Ham,20,10,8,10,2,13,23,56.5,10,8,2,6,6,26,25,0,Match Report
+21,2020-01-12,14:00 (16:00),Matchweek 22,Sun,Home,L,0,3,Watford,8,6,3,5,0,3,13,23.1,10,15,7,8,11,19,16,1,Match Report
+22,2020-01-18,15:00 (17:00),Matchweek 23,Sat,Away,L,0,1,Norwich City,19,9,10,6,3,9,22,40.9,13,13,5,8,18,37,23,0,Match Report
+23,2020-01-21,19:30 (21:30),Matchweek 24,Tue,Home,W,3,1,Brighton,10,5,2,5,3,4,18,22.2,14,20,7,13,21,31,23,0,Match Report
+24,2020-02-01,15:00 (17:00),Matchweek 25,Sat,Home,W,2,1,Aston Villa,12,10,6,4,2,6,16,37.5,10,11,4,7,21,33,40,1,Match Report
+25,For Bournemouth,For Bournemouth,For Bournemouth,For Bournemouth,For Bournemouth,For Bournemouth,For Bournemouth,For Bournemouth,For Bournemouth,Tackles,Tackles,Tackles,Tackles,Tackles,Vs Dribbles,Vs Dribbles,Vs Dribbles,Vs Dribbles,Blocks,Blocks,Blocks,,,,,
+26,Date,Time,Round,Day,Venue,Result,GF,GA,Opponent,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Past,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err,Match Report
+27,2020-02-09,14:00 (16:00),Matchweek 26,Sun,Away,L,1,2,Sheffield Utd,10,5,3,7,0,3,16,18.8,13,12,6,6,7,17,53,1,Match Report
+28,2020-02-22,15:00 (17:00),Matchweek 27,Sat,Away,L,0,3,Burnley,12,6,8,4,0,6,13,46.2,7,13,4,9,6,18,34,2,Match Report
+29,2020-02-29,15:00 (17:00),Matchweek 28,Sat,Home,D,2,2,Chelsea,8,4,1,7,0,1,12,8.3,11,10,5,5,12,20,55,0,Match Report
+30,2020-03-07,12:30 (14:30),Matchweek 29,Sat,Away,L,1,2,Liverpool,9,6,6,3,0,6,20,30.0,14,17,4,13,13,22,45,1,Match Report
+31,2020-06-20,19:45 (20:45),Matchweek 30,Sat,Home,L,0,2,Crystal Palace,18,10,13,1,4,5,14,35.7,9,11,1,10,7,25,10,0,Match Report
+32,2020-06-24,18:00 (19:00),Matchweek 31,Wed,Away,L,0,1,Wolves,17,12,11,5,1,6,14,42.9,8,10,1,9,6,23,17,0,Match Report
+33,2020-07-01,18:00 (19:00),Matchweek 32,Wed,Home,L,1,4,Newcastle Utd,16,8,6,9,1,9,19,47.4,10,3,1,2,8,24,7,0,Match Report
+34,2020-07-04,15:00 (16:00),Matchweek 33,Sat,Away,L,2,5,Manchester Utd,10,4,7,2,1,2,13,15.4,11,9,5,4,11,21,19,0,Match Report
+35,2020-07-09,18:00 (19:00),Matchweek 34,Thu,Home,D,0,0,Tottenham,15,11,6,5,4,7,11,63.6,4,13,5,8,12,27,28,0,Match Report
+36,2020-07-12,19:00 (20:00),Matchweek 35,Sun,Home,W,4,1,Leicester City,6,6,1,5,0,1,6,16.7,5,11,5,6,11,17,25,2,Match Report
+37,2020-07-15,18:00 (19:00),Matchweek 36,Wed,Away,L,1,2,Manchester City,9,6,7,2,0,2,14,14.3,12,4,0,4,12,21,12,0,Match Report
+38,2020-07-19,14:00 (15:00),Matchweek 37,Sun,Home,L,0,2,Southampton,17,7,4,11,2,6,16,37.5,10,22,4,18,11,28,11,0,Match Report
+39,2020-07-26,16:00 (17:00),Matchweek 38,Sun,Away,W,3,1,Everton,18,13,5,11,2,9,23,39.1,14,16,3,13,13,31,15,0,Match Report
+40,,,,,,9-7-22,40,65,,507,299,254,206,47,207,567,36.5,360,439,160,279,475,982,1008,16,

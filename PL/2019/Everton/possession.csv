@@ -1,0 +1,43 @@
+,For Everton,For Everton,For Everton,For Everton,For Everton,For Everton,For Everton,For Everton,For Everton,For Everton,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Dribbles,Dribbles,Dribbles,Dribbles,Dribbles,Receiving,Receiving,Unnamed: 24_level_0
+,Date,Time,Round,Day,Venue,Result,GF,GA,Opponent,Poss,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Succ,Att,Succ%,Mis,Dis,Rec,Prog,Match Report
+0,2019-08-10,15:00 (16:00),Matchweek 1,Sat,Away,D,0,0,Crystal Palace,64,680,62,213,335,135,16,680,5,14,35.7,26,12,429,35,Match Report
+1,2019-08-17,15:00 (16:00),Matchweek 2,Sat,Home,W,1,0,Watford,44,482,81,189,202,98,16,482,19,29,65.5,16,24,232,15,Match Report
+2,2019-08-23,20:00 (21:00),Matchweek 3,Fri,Away,L,0,2,Aston Villa,64,688,45,150,343,204,27,688,13,15,86.7,15,10,467,43,Match Report
+3,2019-09-01,14:00 (15:00),Matchweek 4,Sun,Home,W,3,2,Wolves,58,644,77,173,299,180,31,644,9,16,56.3,21,12,388,32,Match Report
+4,2019-09-15,14:00 (15:00),Matchweek 5,Sun,Away,L,1,3,Bournemouth,59,635,48,177,316,150,27,635,10,16,62.5,17,12,401,42,Match Report
+5,2019-09-21,15:00 (16:00),Matchweek 6,Sat,Home,L,0,2,Sheffield Utd,69,709,43,167,286,259,41,709,15,25,60.0,24,5,475,38,Match Report
+6,2019-09-28,17:30 (18:30),Matchweek 7,Sat,Home,L,1,3,Manchester City,37,495,78,197,184,121,23,495,14,20,70.0,17,9,310,22,Match Report
+7,2019-10-05,15:00 (16:00),Matchweek 8,Sat,Away,L,0,1,Burnley,58,605,59,199,275,137,20,605,5,12,41.7,9,8,387,28,Match Report
+8,2019-10-19,12:30 (13:30),Matchweek 9,Sat,Home,W,2,0,West Ham,51,564,53,153,242,178,34,564,9,19,47.4,13,3,312,42,Match Report
+9,2019-10-26,15:00 (16:00),Matchweek 10,Sat,Away,L,2,3,Brighton,45,577,57,187,278,117,17,577,6,17,35.3,17,7,365,21,Match Report
+10,2019-11-03,16:30 (18:30),Matchweek 11,Sun,Home,D,1,1,Tottenham,47,518,42,154,207,166,27,518,16,19,84.2,23,12,317,41,Match Report
+11,2019-11-09,15:00 (17:00),Matchweek 12,Sat,Away,W,2,1,Southampton,53,559,50,149,237,181,45,559,13,18,72.2,18,7,300,29,Match Report
+12,2019-11-23,15:00 (17:00),Matchweek 13,Sat,Home,L,0,2,Norwich City,57,584,56,175,234,182,41,584,4,12,33.3,13,10,342,36,Match Report
+13,2019-12-01,16:30 (18:30),Matchweek 14,Sun,Away,L,1,2,Leicester City,32,460,74,177,170,116,19,460,13,20,65.0,11,12,208,19,Match Report
+14,2019-12-04,20:15 (22:15),Matchweek 15,Wed,Away,L,2,5,Liverpool,42,498,45,159,236,111,20,498,8,15,53.3,18,8,265,26,Match Report
+15,2019-12-07,12:30 (14:30),Matchweek 16,Sat,Home,W,3,1,Chelsea,31,434,65,164,156,118,21,434,5,10,50.0,19,9,169,13,Match Report
+16,2019-12-15,14:00 (16:00),Matchweek 17,Sun,Away,D,1,1,Manchester Utd,34,441,75,164,156,128,17,441,4,13,30.8,19,5,193,14,Match Report
+17,2019-12-21,12:30 (14:30),Matchweek 18,Sat,Home,D,0,0,Arsenal,43,507,39,146,227,141,21,507,12,19,63.2,22,7,300,37,Match Report
+18,2019-12-26,15:00 (17:00),Matchweek 19,Thu,Home,W,1,0,Burnley,67,668,53,208,312,155,24,668,12,22,54.5,9,10,459,29,Match Report
+19,2019-12-28,15:00 (17:00),Matchweek 20,Sat,Away,W,2,1,Newcastle Utd,57,621,87,225,239,162,30,621,9,16,56.3,16,7,372,27,Match Report
+20,2020-01-01,17:30 (19:30),Matchweek 21,Wed,Away,L,1,2,Manchester City,35,523,77,230,214,81,12,523,10,15,66.7,12,5,333,16,Match Report
+21,2020-01-11,15:00 (17:00),Matchweek 22,Sat,Home,W,1,0,Brighton,53,674,74,198,303,177,30,674,9,16,56.3,10,6,414,34,Match Report
+22,2020-01-18,15:00 (17:00),Matchweek 23,Sat,Away,D,1,1,West Ham,50,622,72,217,267,148,20,622,6,10,60.0,15,12,382,32,Match Report
+23,2020-01-21,19:30 (21:30),Matchweek 24,Tue,Home,D,2,2,Newcastle Utd,55,734,53,195,370,177,24,734,9,15,60.0,18,3,498,31,Match Report
+24,2020-02-01,15:00 (17:00),Matchweek 25,Sat,Away,W,3,2,Watford,55,590,60,191,275,132,18,590,11,16,68.8,14,10,354,32,Match Report
+25,For Everton,For Everton,For Everton,For Everton,For Everton,For Everton,For Everton,For Everton,For Everton,For Everton,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Dribbles,Dribbles,Dribbles,Dribbles,Dribbles,Receiving,Receiving,
+26,Date,Time,Round,Day,Venue,Result,GF,GA,Opponent,Poss,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Succ,Att,Succ%,Mis,Dis,Rec,Prog,Match Report
+27,2020-02-08,12:30 (14:30),Matchweek 26,Sat,Home,W,3,1,Crystal Palace,47,552,67,180,219,161,24,552,12,18,66.7,25,9,296,20,Match Report
+28,2020-02-23,16:30 (18:30),Matchweek 27,Sun,Away,L,2,3,Arsenal,49,596,72,194,246,165,28,596,6,13,46.2,9,6,415,21,Match Report
+29,2020-03-01,14:00 (16:00),Matchweek 28,Sun,Home,D,1,1,Manchester Utd,44,513,65,175,184,161,25,513,12,15,80.0,16,13,264,22,Match Report
+30,2020-03-08,14:00 (16:00),Matchweek 29,Sun,Away,L,0,4,Chelsea,40,532,60,179,275,82,7,532,11,14,78.6,13,10,354,21,Match Report
+31,2020-06-21,19:00 (20:00),Matchweek 30,Sun,Home,D,0,0,Liverpool,31,389,79,217,128,46,10,389,7,13,53.8,6,10,192,8,Match Report
+32,2020-06-24,18:00 (19:00),Matchweek 31,Wed,Away,W,1,0,Norwich City,53,654,70,229,298,127,17,654,11,16,68.8,11,10,424,29,Match Report
+33,2020-07-01,18:00 (19:00),Matchweek 32,Wed,Home,W,2,1,Leicester City,35,487,83,216,183,94,8,486,13,17,76.5,10,11,261,13,Match Report
+34,2020-07-06,20:00 (21:00),Matchweek 33,Mon,Away,L,0,1,Tottenham,48,545,55,169,276,108,7,545,7,7,100.0,17,13,356,26,Match Report
+35,2020-07-09,18:00 (19:00),Matchweek 34,Thu,Home,D,1,1,Southampton,39,489,85,221,208,65,11,489,10,16,62.5,13,7,255,15,Match Report
+36,2020-07-12,12:00 (13:00),Matchweek 35,Sun,Away,L,0,3,Wolves,45,560,66,184,299,79,12,560,7,10,70.0,9,6,387,16,Match Report
+37,2020-07-16,18:00 (19:00),Matchweek 36,Thu,Home,D,1,1,Aston Villa,54,583,85,212,254,120,21,583,11,12,91.7,17,8,396,33,Match Report
+38,2020-07-20,18:00 (19:00),Matchweek 37,Mon,Away,W,1,0,Sheffield Utd,49,624,116,357,195,76,10,624,7,16,43.8,19,8,399,20,Match Report
+39,2020-07-26,16:00 (17:00),Matchweek 38,Sun,Home,L,1,3,Bournemouth,69,878,95,306,389,190,30,878,14,23,60.9,16,9,630,31,Match Report
+40,,,,,,13-10-15,44,56,,49.0,21914,2523,7396,9517,5228,831,21913,374,609,61.4,593,345,13301,1009,

@@ -1,0 +1,43 @@
+,For Brighton & Hove Albion,For Brighton & Hove Albion,For Brighton & Hove Albion,For Brighton & Hove Albion,For Brighton & Hove Albion,For Brighton & Hove Albion,For Brighton & Hove Albion,For Brighton & Hove Albion,For Brighton & Hove Albion,For Brighton & Hove Albion,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Dribbles,Dribbles,Dribbles,Dribbles,Dribbles,Receiving,Receiving,Unnamed: 24_level_0
+,Date,Time,Round,Day,Venue,Result,GF,GA,Opponent,Poss,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Succ,Att,Succ%,Mis,Dis,Rec,Prog,Match Report
+0,2019-08-10,15:00 (16:00),Matchweek 1,Sat,Away,W,3,0,Watford,51,593,68,249,247,102,11,593,6,12,50.0,19,6,362,20,Match Report
+1,2019-08-17,15:00 (16:00),Matchweek 2,Sat,Home,D,1,1,West Ham,57,683,59,193,328,171,25,683,6,16,37.5,17,12,425,30,Match Report
+2,2019-08-24,15:00 (16:00),Matchweek 3,Sat,Home,L,0,2,Southampton,51,557,58,194,224,141,30,557,11,20,55.0,17,10,324,29,Match Report
+3,2019-08-31,15:00 (16:00),Matchweek 4,Sat,Away,L,0,4,Manchester City,47,639,110,301,251,93,17,639,8,12,66.7,13,11,470,24,Match Report
+4,2019-09-14,15:00 (16:00),Matchweek 5,Sat,Home,D,1,1,Burnley,62,652,49,178,298,181,30,652,6,13,46.2,20,10,397,53,Match Report
+5,2019-09-21,17:30 (18:30),Matchweek 6,Sat,Away,D,0,0,Newcastle Utd,71,880,77,218,480,186,26,880,6,12,50.0,16,12,668,42,Match Report
+6,2019-09-28,15:00 (16:00),Matchweek 7,Sat,Away,L,0,2,Chelsea,47,668,103,306,267,101,13,668,7,13,53.8,19,12,434,28,Match Report
+7,2019-10-05,12:30 (13:30),Matchweek 8,Sat,Home,W,3,0,Tottenham,48,675,70,182,288,212,26,675,10,20,50.0,17,13,436,41,Match Report
+8,2019-10-19,15:00 (16:00),Matchweek 9,Sat,Away,L,1,2,Aston Villa,51,626,106,249,224,158,28,626,8,10,80.0,9,4,417,39,Match Report
+9,2019-10-26,15:00 (16:00),Matchweek 10,Sat,Home,W,3,2,Everton,55,678,79,260,304,120,15,677,10,15,66.7,17,12,464,36,Match Report
+10,2019-11-02,15:00 (17:00),Matchweek 11,Sat,Home,W,2,0,Norwich City,58,692,45,173,308,217,44,692,20,25,80.0,12,8,475,41,Match Report
+11,2019-11-10,14:00 (16:00),Matchweek 12,Sun,Away,L,1,3,Manchester Utd,58,656,87,242,303,120,9,656,9,16,56.3,14,17,422,32,Match Report
+12,2019-11-23,15:00 (17:00),Matchweek 13,Sat,Home,L,0,2,Leicester City,53,624,72,193,245,192,18,624,7,16,43.8,22,8,421,39,Match Report
+13,2019-11-30,15:00 (17:00),Matchweek 14,Sat,Away,L,1,2,Liverpool,56,765,93,259,341,172,9,765,11,17,64.7,19,5,533,34,Match Report
+14,2019-12-05,20:15 (22:15),Matchweek 15,Thu,Away,W,2,1,Arsenal,50,561,61,173,256,137,27,561,7,15,46.7,13,11,358,25,Match Report
+15,2019-12-08,16:30 (18:30),Matchweek 16,Sun,Home,D,2,2,Wolves,61,713,75,206,363,147,18,713,6,9,66.7,12,6,501,37,Match Report
+16,2019-12-16,19:45 (21:45),Matchweek 17,Mon,Away,D,1,1,Crystal Palace,65,768,57,182,328,265,29,768,11,14,78.6,14,11,543,37,Match Report
+17,2019-12-21,15:00 (17:00),Matchweek 18,Sat,Home,L,0,1,Sheffield Utd,69,796,67,245,354,203,25,796,10,21,47.6,14,11,568,34,Match Report
+18,2019-12-26,12:30 (14:30),Matchweek 19,Thu,Away,L,1,2,Tottenham,46,588,63,206,281,108,12,588,17,23,73.9,21,13,352,24,Match Report
+19,2019-12-28,12:30 (14:30),Matchweek 20,Sat,Home,W,2,0,Bournemouth,55,660,48,203,282,181,20,660,11,17,64.7,15,12,434,31,Match Report
+20,2020-01-01,12:30 (14:30),Matchweek 21,Wed,Home,D,1,1,Chelsea,48,672,78,231,287,164,28,672,6,17,35.3,29,14,405,38,Match Report
+21,2020-01-11,15:00 (17:00),Matchweek 22,Sat,Away,L,0,1,Everton,47,615,84,218,291,111,19,615,11,23,47.8,16,9,339,38,Match Report
+22,2020-01-18,15:00 (17:00),Matchweek 23,Sat,Home,D,1,1,Aston Villa,55,671,66,230,298,150,32,671,11,14,78.6,27,17,417,37,Match Report
+23,2020-01-21,19:30 (21:30),Matchweek 24,Tue,Away,L,1,3,Bournemouth,66,749,64,242,339,175,18,749,14,18,77.8,24,6,509,44,Match Report
+24,2020-02-01,15:00 (17:00),Matchweek 25,Sat,Away,D,3,3,West Ham,65,764,64,205,404,164,25,764,7,16,43.8,11,14,540,39,Match Report
+25,For Brighton & Hove Albion,For Brighton & Hove Albion,For Brighton & Hove Albion,For Brighton & Hove Albion,For Brighton & Hove Albion,For Brighton & Hove Albion,For Brighton & Hove Albion,For Brighton & Hove Albion,For Brighton & Hove Albion,For Brighton & Hove Albion,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Dribbles,Dribbles,Dribbles,Dribbles,Dribbles,Receiving,Receiving,
+26,Date,Time,Round,Day,Venue,Result,GF,GA,Opponent,Poss,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Succ,Att,Succ%,Mis,Dis,Rec,Prog,Match Report
+27,2020-02-08,17:30 (19:30),Matchweek 26,Sat,Home,D,1,1,Watford,66,767,55,204,341,227,26,767,5,15,33.3,17,15,533,43,Match Report
+28,2020-02-22,15:00 (17:00),Matchweek 27,Sat,Away,D,1,1,Sheffield Utd,35,499,96,233,189,86,10,499,9,15,60.0,24,9,221,7,Match Report
+29,2020-02-29,12:30 (14:30),Matchweek 28,Sat,Home,L,0,1,Crystal Palace,65,727,52,186,340,207,31,727,12,17,70.6,14,18,482,49,Match Report
+30,2020-03-07,15:00 (17:00),Matchweek 29,Sat,Away,D,0,0,Wolves,57,790,59,203,427,167,13,790,10,23,43.5,13,9,537,41,Match Report
+31,2020-06-20,15:00 (16:00),Matchweek 30,Sat,Home,W,2,1,Arsenal,41,467,80,190,149,132,17,467,6,9,66.7,11,5,279,23,Match Report
+32,2020-06-23,18:00 (19:00),Matchweek 31,Tue,Away,D,0,0,Leicester City,34,447,68,172,179,101,6,446,11,16,68.8,17,11,220,15,Match Report
+33,2020-06-30,20:15 (21:15),Matchweek 32,Tue,Home,L,0,3,Manchester Utd,38,496,59,197,203,99,12,496,7,14,50.0,9,9,323,21,Match Report
+34,2020-07-04,12:30 (13:30),Matchweek 33,Sat,Away,W,1,0,Norwich City,42,564,70,233,209,129,15,564,6,15,40.0,13,5,368,27,Match Report
+35,2020-07-08,20:15 (21:15),Matchweek 34,Wed,Home,L,1,3,Liverpool,44,552,99,246,205,107,17,552,9,12,75.0,16,8,319,23,Match Report
+36,2020-07-11,20:00 (21:00),Matchweek 35,Sat,Home,L,0,5,Manchester City,30,451,77,214,172,68,8,451,4,11,36.4,11,9,269,13,Match Report
+37,2020-07-16,20:15 (21:15),Matchweek 36,Thu,Away,D,1,1,Southampton,33,426,78,200,154,76,19,426,9,14,64.3,22,10,184,20,Match Report
+38,2020-07-20,18:00 (19:00),Matchweek 37,Mon,Home,D,0,0,Newcastle Utd,61,686,66,189,357,141,16,686,6,8,75.0,15,13,485,30,Match Report
+39,2020-07-26,16:00 (17:00),Matchweek 38,Sun,Away,W,2,1,Burnley,45,477,75,184,187,109,15,477,5,11,45.5,17,14,274,20,Match Report
+40,,,,,,9-14-15,39,54,,52.2,24294,2737,8189,10703,5620,759,24292,335,584,57.4,626,399,15708,1204,
