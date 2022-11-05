@@ -1,0 +1,43 @@
+,For West Bromwich Albion,For West Bromwich Albion,For West Bromwich Albion,For West Bromwich Albion,For West Bromwich Albion,For West Bromwich Albion,For West Bromwich Albion,For West Bromwich Albion,For West Bromwich Albion,Total,Total,Total,Total,Total,Short,Short,Short,Medium,Medium,Medium,Long,Long,Long,Unnamed: 23_level_0,Unnamed: 24_level_0,Unnamed: 25_level_0,Unnamed: 26_level_0,Unnamed: 27_level_0,Unnamed: 28_level_0,Unnamed: 29_level_0,Unnamed: 30_level_0,Unnamed: 31_level_0
+,Date,Time,Round,Day,Venue,Result,GF,GA,Opponent,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Ast,xAG,xA,KP,1/3,PPA,CrsPA,Prog,Match Report
+0,2020-09-13,14:00 (15:00),Matchweek 1,Sun,Home,L,0,3,Leicester City,272,374,72.7,5538,2328,106,132,80.3,119,143,83.2,43,81,53.1,0,0.2,0.4,4,20,3,0,16,Match Report
+1,2020-09-19,12:30 (13:30),Matchweek 2,Sat,Away,L,2,5,Everton,268,345,77.7,4498,1843,147,166,88.6,90,103,87.4,27,59,45.8,1,0.2,0.2,4,17,4,1,17,Match Report
+2,2020-09-26,17:30 (18:30),Matchweek 3,Sat,Home,D,3,3,Chelsea,185,283,65.4,3302,1469,91,103,88.3,62,86,72.1,27,71,38.0,2,0.5,0.5,7,12,2,0,19,Match Report
+3,2020-10-04,12:00 (13:00),Matchweek 4,Sun,Away,L,0,2,Southampton,244,360,67.8,4422,2044,115,144,79.9,89,125,71.2,35,73,47.9,0,0.1,0.2,3,14,1,0,20,Match Report
+4,2020-10-19,17:30 (18:30),Matchweek 5,Mon,Home,D,0,0,Burnley,396,538,73.6,7216,2718,166,194,85.6,169,209,80.9,54,107,50.5,0,0.7,0.5,11,29,8,3,22,Match Report
+5,2020-10-26,17:30 (19:30),Matchweek 6,Mon,Away,D,1,1,Brighton,425,524,81.1,7505,2765,192,214,89.7,175,204,85.8,49,86,57.0,0,0.2,0.7,5,42,10,3,26,Match Report
+6,2020-11-02,17:30 (19:30),Matchweek 7,Mon,Away,L,0,2,Fulham,401,516,77.7,7501,2611,160,186,86.0,195,234,83.3,43,66,65.2,0,0.4,0.5,7,28,6,3,26,Match Report
+7,2020-11-08,12:00 (14:00),Matchweek 8,Sun,Home,L,0,1,Tottenham,251,394,63.7,4461,1954,115,149,77.2,89,131,67.9,31,76,40.8,0,0.6,0.5,9,18,10,1,25,Match Report
+8,2020-11-21,20:00 (22:00),Matchweek 9,Sat,Away,L,0,1,Manchester Utd,317,419,75.7,5691,2121,134,156,85.9,142,173,82.1,34,72,47.2,0,0.3,0.4,6,27,2,1,21,Match Report
+9,2020-11-28,20:00 (22:00),Matchweek 10,Sat,Home,W,1,0,Sheffield Utd,324,431,75.2,5846,2545,176,196,89.8,98,126,77.8,41,82,50.0,0,0.7,1.0,13,24,5,0,28,Match Report
+10,2020-12-06,12:00 (14:00),Matchweek 11,Sun,Home,L,1,5,Crystal Palace,450,529,85.1,7120,2179,208,227,91.6,170,190,89.5,38,58,65.5,1,0.5,0.6,8,23,10,3,28,Match Report
+11,2020-12-12,15:00 (17:00),Matchweek 12,Sat,Away,L,1,2,Newcastle Utd,420,538,78.1,6630,2428,223,258,86.4,147,181,81.2,34,62,54.8,1,0.5,0.3,9,39,6,1,28,Match Report
+12,2020-12-15,20:00 (22:00),Matchweek 13,Tue,Away,D,1,1,Manchester City,149,246,60.6,2644,1346,77,99,77.8,40,62,64.5,23,64,35.9,0,0.1,0.2,2,7,1,1,4,Match Report
+13,2020-12-20,19:15 (21:15),Matchweek 14,Sun,Home,L,0,3,Aston Villa,196,307,63.8,3808,1720,82,95,86.3,91,122,74.6,20,78,25.6,0,0.0,0.1,0,20,1,1,15,Match Report
+14,2020-12-27,16:30 (18:30),Matchweek 15,Sun,Away,D,1,1,Liverpool,131,248,52.8,2652,1561,58,80,72.5,42,63,66.7,26,76,34.2,1,0.5,0.3,4,14,3,2,11,Match Report
+15,2020-12-29,18:00 (20:00),Matchweek 16,Tue,Home,L,0,5,Leeds United,171,277,61.7,3174,1610,85,102,83.3,61,91,67.0,23,70,32.9,0,0.0,0.1,1,16,1,0,9,Match Report
+16,2021-01-02,20:00 (22:00),Matchweek 17,Sat,Home,L,0,4,Arsenal,302,421,71.7,5402,2314,145,171,84.8,100,127,78.7,41,85,48.2,0,1.0,0.6,7,33,6,2,20,Match Report
+17,2021-01-16,12:30 (14:30),Matchweek 19,Sat,Away,W,3,2,Wolves,197,304,64.8,3448,1704,88,112,78.6,73,100,73.0,21,62,33.9,1,0.7,0.3,7,18,6,0,19,Match Report
+18,2021-01-19,18:00 (20:00),Matchweek 18,Tue,Away,L,1,2,West Ham,290,414,70.0,5702,2387,109,131,83.2,124,158,78.5,46,100,46.0,1,0.4,0.3,5,34,3,2,20,Match Report
+19,2021-01-26,20:15 (22:15),Matchweek 20,Tue,Home,L,0,5,Manchester City,179,277,64.6,3251,1348,87,106,82.1,61,85,71.8,22,66,33.3,0,0.2,0.1,2,10,3,0,9,Match Report
+20,2021-01-30,15:00 (17:00),Matchweek 21,Sat,Home,D,2,2,Fulham,236,377,62.6,4702,1985,102,130,78.5,100,140,71.4,34,94,36.2,1,0.5,0.3,4,26,4,4,20,Match Report
+21,2021-02-02,18:00 (20:00),Matchweek 22,Tue,Away,L,1,2,Sheffield Utd,196,310,63.2,3650,1666,86,108,79.6,67,98,68.4,30,78,38.5,0,0.5,0.4,4,18,6,2,14,Match Report
+22,2021-02-07,12:00 (14:00),Matchweek 23,Sun,Away,L,0,2,Tottenham,245,341,71.8,4642,1944,101,121,83.5,94,112,83.9,37,80,46.3,0,0.6,0.8,4,18,5,4,10,Match Report
+23,2021-02-14,14:00 (16:00),Matchweek 24,Sun,Home,D,1,1,Manchester Utd,181,284,63.7,3505,1586,78,86,90.7,77,101,76.2,24,80,30.0,1,1.0,0.8,7,16,6,3,14,Match Report
+24,2021-02-20,15:00 (17:00),Matchweek 25,Sat,Away,D,0,0,Burnley,176,304,57.9,3231,1668,80,106,75.5,58,87,66.7,27,82,32.9,0,1.4,1.1,7,12,2,0,14,Match Report
+25,For West Bromwich Albion,For West Bromwich Albion,For West Bromwich Albion,For West Bromwich Albion,For West Bromwich Albion,For West Bromwich Albion,For West Bromwich Albion,For West Bromwich Albion,For West Bromwich Albion,Total,Total,Total,Total,Total,Short,Short,Short,Medium,Medium,Medium,Long,Long,Long,,,,,,,,,
+26,Date,Time,Round,Day,Venue,Result,GF,GA,Opponent,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Ast,xAG,xA,KP,1/3,PPA,CrsPA,Prog,Match Report
+27,2021-02-27,15:00 (17:00),Matchweek 26,Sat,Home,W,1,0,Brighton,162,276,58.7,2759,1320,83,101,82.2,52,80,65.0,20,73,27.4,1,0.8,0.7,4,15,3,1,10,Match Report
+28,2021-03-04,18:00 (20:00),Matchweek 29,Thu,Home,L,0,1,Everton,391,514,76.1,7268,2653,161,183,88.0,177,213,83.1,46,94,48.9,0,0.9,0.8,8,33,7,0,38,Match Report
+29,2021-03-07,12:00 (14:00),Matchweek 27,Sun,Home,D,0,0,Newcastle Utd,328,464,70.7,6049,2530,171,199,85.9,92,132,69.7,57,110,51.8,0,1.5,1.3,11,29,17,3,33,Match Report
+30,2021-03-13,15:00 (17:00),Matchweek 28,Sat,Away,L,0,1,Crystal Palace,343,458,74.9,5694,2383,169,188,89.9,111,140,79.3,38,80,47.5,0,0.7,1.0,9,31,12,5,32,Match Report
+31,2021-04-03,12:30 (13:30),Matchweek 30,Sat,Away,W,5,2,Chelsea,244,339,72.0,4127,1706,114,131,87.0,85,113,75.2,27,61,44.3,4,1.3,0.7,10,21,3,1,13,Match Report
+32,2021-04-12,18:00 (19:00),Matchweek 31,Mon,Home,W,3,0,Southampton,215,326,66.0,3900,2042,94,128,73.4,78,105,74.3,29,63,46.0,2,2.1,1.5,12,17,7,3,17,Match Report
+33,2021-04-22,20:00 (21:00),Matchweek 32,Thu,Away,L,0,3,Leicester City,188,294,63.9,3620,1580,73,104,70.2,72,94,76.6,30,68,44.1,0,0.5,0.5,3,15,1,0,13,Match Report
+34,2021-04-25,19:00 (20:00),Matchweek 33,Sun,Away,D,2,2,Aston Villa,155,267,58.1,2689,1462,68,89,76.4,47,62,75.8,21,74,28.4,0,0.2,0.3,5,13,6,1,15,Match Report
+35,2021-05-03,18:00 (19:00),Matchweek 34,Mon,Home,D,1,1,Wolves,270,387,69.8,4907,2316,122,150,81.3,95,129,73.6,40,83,48.2,1,1.0,0.7,7,28,6,3,21,Match Report
+36,2021-05-09,19:00 (20:00),Matchweek 35,Sun,Away,L,1,3,Arsenal,233,336,69.3,4777,1747,80,100,80.0,109,132,82.6,36,85,42.4,1,1.7,0.9,9,23,6,3,16,Match Report
+37,2021-05-16,16:30 (17:30),Matchweek 36,Sun,Home,L,1,2,Liverpool,140,241,58.1,3216,1976,52,71,73.2,45,66,68.2,37,86,43.0,1,0.9,0.3,8,18,2,1,14,Match Report
+38,2021-05-19,20:15 (21:15),Matchweek 37,Wed,Home,L,1,3,West Ham,287,409,70.2,5160,2360,132,156,84.6,108,149,72.5,36,75,48.0,0,0.4,0.6,7,26,5,1,21,Match Report
+39,2021-05-23,16:00 (17:00),Matchweek 38,Sun,Away,L,1,3,Leeds United,211,306,69.0,3794,1827,88,106,83.0,92,117,78.6,26,64,40.6,0,0.6,0.5,8,18,7,1,23,Match Report
+40,,,,,,5-11-22,35,76,,9769,13978,69.9,177501,75746,4418,5278,83.7,3696,4783,77.3,1273,2924,43.5,20,24.5,21.3,241,822,196,60,721,

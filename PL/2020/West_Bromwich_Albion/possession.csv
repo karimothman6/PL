@@ -1,0 +1,43 @@
+,For West Bromwich Albion,For West Bromwich Albion,For West Bromwich Albion,For West Bromwich Albion,For West Bromwich Albion,For West Bromwich Albion,For West Bromwich Albion,For West Bromwich Albion,For West Bromwich Albion,For West Bromwich Albion,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Dribbles,Dribbles,Dribbles,Dribbles,Dribbles,Receiving,Receiving,Unnamed: 24_level_0
+,Date,Time,Round,Day,Venue,Result,GF,GA,Opponent,Poss,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Succ,Att,Succ%,Mis,Dis,Rec,Prog,Match Report
+0,2020-09-13,14:00 (15:00),Matchweek 1,Sun,Home,L,0,3,Leicester City,36,459,62,168,195,101,9,459,3,12,25.0,15,8,265,16,Match Report
+1,2020-09-19,12:30 (13:30),Matchweek 2,Sat,Away,L,2,5,Everton,29,457,68,205,174,80,14,457,5,12,41.7,19,14,262,17,Match Report
+2,2020-09-26,17:30 (18:30),Matchweek 3,Sat,Home,D,3,3,Chelsea,25,412,76,177,149,91,11,412,10,15,66.7,19,7,180,18,Match Report
+3,2020-10-04,12:00 (13:00),Matchweek 4,Sun,Away,L,0,2,Southampton,38,485,53,164,231,94,9,485,9,16,56.3,26,14,236,20,Match Report
+4,2020-10-19,17:30 (18:30),Matchweek 5,Mon,Home,D,0,0,Burnley,57,630,83,226,270,136,19,630,2,7,28.6,15,8,393,22,Match Report
+5,2020-10-26,17:30 (19:30),Matchweek 6,Mon,Away,D,1,1,Brighton,50,633,62,202,273,163,16,633,5,15,33.3,22,10,420,26,Match Report
+6,2020-11-02,17:30 (19:30),Matchweek 7,Mon,Away,L,0,2,Fulham,53,641,66,234,289,124,16,641,9,16,56.3,26,8,392,26,Match Report
+7,2020-11-08,12:00 (14:00),Matchweek 8,Sun,Home,L,0,1,Tottenham,42,499,51,143,210,152,22,499,11,18,61.1,18,9,247,25,Match Report
+8,2020-11-21,20:00 (22:00),Matchweek 9,Sat,Away,L,0,1,Manchester Utd,37,541,77,217,250,78,9,541,14,16,87.5,23,11,315,20,Match Report
+9,2020-11-28,20:00 (22:00),Matchweek 10,Sat,Home,W,1,0,Sheffield Utd,49,520,66,172,225,128,17,520,5,7,71.4,12,12,318,28,Match Report
+10,2020-12-06,12:00 (14:00),Matchweek 11,Sun,Home,L,1,5,Crystal Palace,50,623,55,158,357,114,17,623,9,14,64.3,11,9,446,28,Match Report
+11,2020-12-12,15:00 (17:00),Matchweek 12,Sat,Away,L,1,2,Newcastle Utd,54,630,38,123,339,171,10,630,6,10,60.0,19,3,416,28,Match Report
+12,2020-12-15,20:00 (22:00),Matchweek 13,Tue,Away,D,1,1,Manchester City,23,353,91,184,126,48,6,353,6,11,54.5,12,6,143,3,Match Report
+13,2020-12-20,19:15 (21:15),Matchweek 14,Sun,Home,L,0,3,Aston Villa,33,414,75,188,169,60,5,414,9,16,56.3,12,4,195,15,Match Report
+14,2020-12-27,16:30 (18:30),Matchweek 15,Sun,Away,D,1,1,Liverpool,23,378,95,177,127,80,9,378,3,7,42.9,14,7,129,11,Match Report
+15,2020-12-29,18:00 (20:00),Matchweek 16,Tue,Home,L,0,5,Leeds United,25,372,66,165,119,93,10,372,3,5,60.0,13,11,163,9,Match Report
+16,2021-01-02,20:00 (22:00),Matchweek 17,Sat,Home,L,0,4,Arsenal,39,529,62,146,241,147,11,529,10,16,62.5,16,8,298,18,Match Report
+17,2021-01-16,12:30 (14:30),Matchweek 19,Sat,Away,W,3,2,Wolves,33,421,77,183,156,85,15,419,3,9,33.3,9,6,195,19,Match Report
+18,2021-01-19,18:00 (20:00),Matchweek 18,Tue,Away,L,1,2,West Ham,41,509,54,167,240,107,17,509,3,7,42.9,8,1,284,20,Match Report
+19,2021-01-26,20:15 (22:15),Matchweek 20,Tue,Home,L,0,5,Manchester City,23,366,74,172,136,67,9,366,3,6,50.0,8,5,173,8,Match Report
+20,2021-01-30,15:00 (17:00),Matchweek 21,Sat,Home,D,2,2,Fulham,38,471,59,170,194,112,13,471,8,11,72.7,15,5,233,20,Match Report
+21,2021-02-02,18:00 (20:00),Matchweek 22,Tue,Away,L,1,2,Sheffield Utd,32,428,68,178,153,99,21,428,2,13,15.4,14,9,187,13,Match Report
+22,2021-02-07,12:00 (14:00),Matchweek 23,Sun,Away,L,0,2,Tottenham,35,453,72,206,192,62,13,453,3,15,20.0,13,5,243,10,Match Report
+23,2021-02-14,14:00 (16:00),Matchweek 24,Sun,Home,D,1,1,Manchester Utd,27,403,89,204,120,82,11,403,6,9,66.7,11,7,178,13,Match Report
+24,2021-02-20,15:00 (17:00),Matchweek 25,Sat,Away,D,0,0,Burnley,38,397,56,168,165,72,10,397,6,14,42.9,6,9,173,13,Match Report
+25,For West Bromwich Albion,For West Bromwich Albion,For West Bromwich Albion,For West Bromwich Albion,For West Bromwich Albion,For West Bromwich Albion,For West Bromwich Albion,For West Bromwich Albion,For West Bromwich Albion,For West Bromwich Albion,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Dribbles,Dribbles,Dribbles,Dribbles,Dribbles,Receiving,Receiving,
+26,Date,Time,Round,Day,Venue,Result,GF,GA,Opponent,Poss,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Succ,Att,Succ%,Mis,Dis,Rec,Prog,Match Report
+27,2021-02-27,15:00 (17:00),Matchweek 26,Sat,Home,W,1,0,Brighton,32,392,62,164,132,100,11,392,8,19,42.1,17,10,162,10,Match Report
+28,2021-03-04,18:00 (20:00),Matchweek 29,Thu,Home,L,0,1,Everton,49,634,54,215,259,171,21,634,14,29,48.3,21,5,386,37,Match Report
+29,2021-03-07,12:00 (14:00),Matchweek 27,Sun,Home,D,0,0,Newcastle Utd,53,574,68,180,181,221,29,574,13,21,61.9,14,9,315,33,Match Report
+30,2021-03-13,15:00 (17:00),Matchweek 28,Sat,Away,L,0,1,Crystal Palace,55,568,41,131,289,149,25,568,9,18,50.0,24,8,336,32,Match Report
+31,2021-04-03,12:30 (13:30),Matchweek 30,Sat,Away,W,5,2,Chelsea,35,462,69,182,202,82,14,462,10,16,62.5,19,11,240,13,Match Report
+32,2021-04-12,18:00 (19:00),Matchweek 31,Mon,Home,W,3,0,Southampton,40,445,73,163,148,142,31,444,10,17,58.8,20,7,208,17,Match Report
+33,2021-04-22,20:00 (21:00),Matchweek 32,Thu,Away,L,0,3,Leicester City,28,389,59,160,156,76,10,389,3,13,23.1,13,9,183,13,Match Report
+34,2021-04-25,19:00 (20:00),Matchweek 33,Sun,Away,D,2,2,Aston Villa,30,385,90,178,132,81,13,384,6,8,75.0,17,11,153,14,Match Report
+35,2021-05-03,18:00 (19:00),Matchweek 34,Mon,Home,D,1,1,Wolves,43,507,61,179,212,118,24,507,6,13,46.2,23,13,270,21,Match Report
+36,2021-05-09,19:00 (20:00),Matchweek 35,Sun,Away,L,1,3,Arsenal,35,431,52,150,169,119,14,431,5,12,41.7,18,4,228,16,Match Report
+37,2021-05-16,16:30 (17:30),Matchweek 36,Sun,Home,L,1,2,Liverpool,24,369,82,167,117,86,17,369,5,7,71.4,16,6,137,14,Match Report
+38,2021-05-19,20:15 (21:15),Matchweek 37,Wed,Home,L,1,3,West Ham,52,513,63,154,198,171,22,512,12,18,66.7,15,10,278,20,Match Report
+39,2021-05-23,16:00 (17:00),Matchweek 38,Sun,Away,L,1,3,Leeds United,36,418,69,145,164,114,19,418,10,17,58.8,20,14,205,22,Match Report
+40,,,,,,5-11-22,35,76,,37.9,18111,2538,6665,7459,4176,569,18106,264,505,52.3,613,313,9585,708,

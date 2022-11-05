@@ -1,0 +1,43 @@
+,For Wolverhampton Wanderers,For Wolverhampton Wanderers,For Wolverhampton Wanderers,For Wolverhampton Wanderers,For Wolverhampton Wanderers,For Wolverhampton Wanderers,For Wolverhampton Wanderers,For Wolverhampton Wanderers,For Wolverhampton Wanderers,For Wolverhampton Wanderers,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Dribbles,Dribbles,Dribbles,Dribbles,Dribbles,Receiving,Receiving,Unnamed: 24_level_0
+,Date,Time,Round,Day,Venue,Result,GF,GA,Opponent,Poss,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Succ,Att,Succ%,Mis,Dis,Rec,Prog,Match Report
+0,2019-08-11,14:00 (15:00),Matchweek 1,Sun,Away,D,0,0,Leicester City,31,481,69,213,192,81,14,481,12,20,60.0,25,12,227,12,Match Report
+1,2019-08-19,20:00 (21:00),Matchweek 2,Mon,Home,D,1,1,Manchester Utd,35,487,50,175,217,99,19,487,9,21,42.9,15,11,275,22,Match Report
+2,2019-08-25,16:30 (17:30),Matchweek 3,Sun,Home,D,1,1,Burnley,65,736,58,207,347,188,26,735,8,14,57.1,10,6,498,37,Match Report
+3,2019-09-01,14:00 (15:00),Matchweek 4,Sun,Away,L,2,3,Everton,42,484,61,181,215,90,18,484,13,21,61.9,18,16,234,11,Match Report
+4,2019-09-14,15:00 (16:00),Matchweek 5,Sat,Home,L,2,5,Chelsea,46,606,52,154,294,164,15,606,13,19,68.4,15,14,382,20,Match Report
+5,2019-09-22,14:00 (15:00),Matchweek 6,Sun,Away,D,1,1,Crystal Palace,49,623,69,205,288,134,17,623,7,18,38.9,11,13,373,28,Match Report
+6,2019-09-28,15:00 (16:00),Matchweek 7,Sat,Home,W,2,0,Watford,39,552,66,207,266,87,13,552,8,14,57.1,9,9,325,28,Match Report
+7,2019-10-06,14:00 (15:00),Matchweek 8,Sun,Away,W,2,0,Manchester City,25,385,92,219,126,47,8,385,10,19,52.6,12,5,161,7,Match Report
+8,2019-10-19,15:00 (16:00),Matchweek 9,Sat,Home,D,1,1,Southampton,57,649,53,209,331,114,10,648,13,17,76.5,18,5,420,32,Match Report
+9,2019-10-27,14:00 (16:00),Matchweek 10,Sun,Away,D,1,1,Newcastle Utd,56,690,47,156,377,162,26,690,11,16,68.8,13,8,481,37,Match Report
+10,2019-11-02,15:00 (17:00),Matchweek 11,Sat,Away,D,1,1,Arsenal,43,580,69,187,221,178,32,580,11,19,57.9,11,8,343,37,Match Report
+11,2019-11-10,14:00 (16:00),Matchweek 12,Sun,Home,W,2,1,Aston Villa,50,555,61,190,231,142,32,555,21,32,65.6,12,9,329,33,Match Report
+12,2019-11-23,15:00 (17:00),Matchweek 13,Sat,Away,W,2,1,Bournemouth,53,658,54,165,349,148,25,658,7,11,63.6,12,5,458,24,Match Report
+13,2019-12-01,14:00 (16:00),Matchweek 14,Sun,Home,D,1,1,Sheffield Utd,59,673,49,189,333,156,27,673,16,24,66.7,14,11,445,24,Match Report
+14,2019-12-04,19:30 (21:30),Matchweek 15,Wed,Home,W,2,0,West Ham,50,631,45,156,323,162,29,631,16,28,57.1,12,11,416,33,Match Report
+15,2019-12-08,16:30 (18:30),Matchweek 16,Sun,Away,D,2,2,Brighton,39,486,53,154,224,115,27,486,16,21,76.2,16,8,277,17,Match Report
+16,2019-12-15,14:00 (16:00),Matchweek 17,Sun,Home,L,1,2,Tottenham,58,651,52,148,299,206,34,651,20,25,80.0,19,13,403,29,Match Report
+17,2019-12-21,15:00 (17:00),Matchweek 18,Sat,Away,W,2,1,Norwich City,50,581,47,158,279,150,22,581,12,22,54.5,14,5,380,35,Match Report
+18,2019-12-27,19:45 (21:45),Matchweek 19,Fri,Home,W,3,2,Manchester City,62,711,27,124,359,231,35,711,18,26,69.2,16,8,533,28,Match Report
+19,2019-12-29,16:30 (18:30),Matchweek 20,Sun,Away,L,0,1,Liverpool,38,504,50,168,243,97,10,504,22,30,73.3,12,11,279,21,Match Report
+20,2020-01-01,15:00 (17:00),Matchweek 21,Wed,Away,L,1,2,Watford,63,728,45,190,368,176,23,728,19,25,76.0,15,7,506,35,Match Report
+21,2020-01-11,15:00 (17:00),Matchweek 22,Sat,Home,D,1,1,Newcastle Utd,65,742,38,175,416,158,20,742,13,23,56.5,20,5,531,37,Match Report
+22,2020-01-18,15:00 (17:00),Matchweek 23,Sat,Away,W,3,2,Southampton,47,526,58,194,262,72,16,525,18,26,69.2,18,6,258,24,Match Report
+23,2020-01-23,20:00 (22:00),Matchweek 24,Thu,Home,L,1,2,Liverpool,47,635,58,228,296,118,19,635,19,24,79.2,21,6,429,25,Match Report
+24,2020-02-01,17:30 (19:30),Matchweek 25,Sat,Away,D,0,0,Manchester Utd,36,522,64,215,213,102,26,522,16,27,59.3,11,8,301,22,Match Report
+25,For Wolverhampton Wanderers,For Wolverhampton Wanderers,For Wolverhampton Wanderers,For Wolverhampton Wanderers,For Wolverhampton Wanderers,For Wolverhampton Wanderers,For Wolverhampton Wanderers,For Wolverhampton Wanderers,For Wolverhampton Wanderers,For Wolverhampton Wanderers,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Dribbles,Dribbles,Dribbles,Dribbles,Dribbles,Receiving,Receiving,
+26,Date,Time,Round,Day,Venue,Result,GF,GA,Opponent,Poss,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Succ,Att,Succ%,Mis,Dis,Rec,Prog,Match Report
+27,2020-02-14,20:00 (22:00),Matchweek 26,Fri,Home,D,0,0,Leicester City,42,509,44,142,227,142,27,509,18,27,66.7,13,12,283,23,Match Report
+28,2020-02-23,14:00 (16:00),Matchweek 27,Sun,Home,W,3,0,Norwich City,40,550,37,172,273,111,20,550,9,18,50.0,18,7,321,20,Match Report
+29,2020-03-01,14:00 (16:00),Matchweek 28,Sun,Away,W,3,2,Tottenham,35,489,56,159,235,110,24,489,14,26,53.8,11,10,260,17,Match Report
+30,2020-03-07,15:00 (17:00),Matchweek 29,Sat,Home,D,0,0,Brighton,43,625,48,202,304,125,17,625,16,28,57.1,13,11,365,12,Match Report
+31,2020-06-20,17:30 (18:30),Matchweek 30,Sat,Away,W,2,0,West Ham,58,659,57,198,327,138,22,659,13,23,56.5,12,5,443,28,Match Report
+32,2020-06-24,18:00 (19:00),Matchweek 31,Wed,Home,W,1,0,Bournemouth,54,575,36,181,291,112,10,575,8,14,57.1,8,11,370,19,Match Report
+33,2020-06-27,12:30 (13:30),Matchweek 32,Sat,Away,W,1,0,Aston Villa,52,572,41,169,251,155,15,572,8,11,72.7,12,5,393,26,Match Report
+34,2020-07-04,17:30 (18:30),Matchweek 33,Sat,Home,L,0,2,Arsenal,53,656,46,211,309,141,16,656,6,18,33.3,17,17,466,21,Match Report
+35,2020-07-08,18:00 (19:00),Matchweek 34,Wed,Away,L,0,1,Sheffield Utd,56,697,81,279,306,120,14,697,14,23,60.9,12,7,459,18,Match Report
+36,2020-07-12,12:00 (13:00),Matchweek 35,Sun,Home,W,3,0,Everton,55,680,38,177,369,144,15,679,15,19,78.9,9,6,501,25,Match Report
+37,2020-07-15,18:00 (19:00),Matchweek 36,Wed,Away,D,1,1,Burnley,53,559,48,169,256,140,21,559,16,22,72.7,15,6,330,23,Match Report
+38,2020-07-20,20:15 (21:15),Matchweek 37,Mon,Home,W,2,0,Crystal Palace,53,609,42,174,296,142,19,609,16,23,69.6,13,6,397,23,Match Report
+39,2020-07-26,16:00 (17:00),Matchweek 38,Sun,Away,L,0,2,Chelsea,38,514,40,187,229,102,9,514,8,23,34.8,18,15,273,26,Match Report
+40,,,,,,15-14-9,51,40,,48.3,22570,2001,6987,10742,5059,772,22566,509,817,62.3,540,338,14125,939,
