@@ -1,0 +1,43 @@
+,For Aston Villa,For Aston Villa,For Aston Villa,For Aston Villa,For Aston Villa,For Aston Villa,For Aston Villa,For Aston Villa,For Aston Villa,For Aston Villa,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Dribbles,Dribbles,Dribbles,Dribbles,Dribbles,Receiving,Receiving,Unnamed: 24_level_0
+,Date,Time,Round,Day,Venue,Result,GF,GA,Opponent,Poss,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Succ,Att,Succ%,Mis,Dis,Rec,Prog,Match Report
+0,2019-08-10,17:30 (18:30),Matchweek 1,Sat,Away,L,1,3,Tottenham,30,419,104,219,150,55,8,419,4,8,50.0,13,13,212,9,Match Report
+1,2019-08-17,15:00 (16:00),Matchweek 2,Sat,Home,L,1,2,Bournemouth,63,649,51,203,269,181,25,649,9,10,90.0,14,14,437,37,Match Report
+2,2019-08-23,20:00 (21:00),Matchweek 3,Fri,Home,W,2,0,Everton,36,461,75,197,174,98,16,461,11,17,64.7,21,10,229,18,Match Report
+3,2019-08-31,15:00 (16:00),Matchweek 4,Sat,Away,L,0,1,Crystal Palace,48,545,95,207,217,124,11,545,11,12,91.7,9,17,336,23,Match Report
+4,2019-09-16,20:00 (21:00),Matchweek 5,Mon,Home,D,0,0,West Ham,46,567,57,181,246,149,17,567,11,19,57.9,12,13,350,24,Match Report
+5,2019-09-22,16:30 (17:30),Matchweek 6,Sun,Away,L,2,3,Arsenal,42,481,75,178,184,129,17,481,15,21,71.4,8,6,278,31,Match Report
+6,2019-09-28,15:00 (16:00),Matchweek 7,Sat,Home,D,2,2,Burnley,60,576,39,171,240,171,14,576,8,16,50.0,14,5,348,28,Match Report
+7,2019-10-05,15:00 (16:00),Matchweek 8,Sat,Away,W,5,1,Norwich City,43,534,90,205,188,144,23,533,4,14,28.6,9,10,289,29,Match Report
+8,2019-10-19,15:00 (16:00),Matchweek 9,Sat,Home,W,2,1,Brighton,49,606,65,147,225,246,40,606,20,25,80.0,11,6,395,29,Match Report
+9,2019-10-26,12:30 (13:30),Matchweek 10,Sat,Away,L,0,3,Manchester City,37,497,109,238,158,106,16,497,10,16,62.5,8,7,290,18,Match Report
+10,2019-11-02,15:00 (17:00),Matchweek 11,Sat,Home,L,1,2,Liverpool,27,414,106,217,114,86,11,414,5,14,35.7,23,8,150,12,Match Report
+11,2019-11-10,14:00 (16:00),Matchweek 12,Sun,Away,L,1,2,Wolves,50,543,68,197,241,118,10,543,17,24,70.8,16,7,322,18,Match Report
+12,2019-11-25,20:00 (22:00),Matchweek 13,Mon,Home,W,2,0,Newcastle Utd,61,645,53,170,276,205,32,645,8,16,50.0,13,7,447,37,Match Report
+13,2019-12-01,16:30 (18:30),Matchweek 14,Sun,Away,D,2,2,Manchester Utd,38,462,81,173,180,114,16,462,10,14,71.4,16,2,235,21,Match Report
+14,2019-12-04,19:30 (21:30),Matchweek 15,Wed,Away,L,1,2,Chelsea,36,555,82,193,233,133,14,555,10,18,55.6,24,5,299,21,Match Report
+15,2019-12-08,14:00 (16:00),Matchweek 16,Sun,Home,L,1,4,Leicester City,41,480,75,144,159,182,39,480,11,20,55.0,18,8,260,30,Match Report
+16,2019-12-14,15:00 (17:00),Matchweek 17,Sat,Away,L,0,2,Sheffield Utd,44,563,91,237,232,96,8,562,3,4,75.0,15,11,305,19,Match Report
+17,2019-12-21,15:00 (17:00),Matchweek 18,Sat,Home,L,1,3,Southampton,56,612,61,190,256,174,29,612,13,20,65.0,23,9,374,30,Match Report
+18,2019-12-26,15:00 (17:00),Matchweek 19,Thu,Home,W,1,0,Norwich City,43,510,60,166,199,151,20,510,9,10,90.0,17,6,296,19,Match Report
+19,2019-12-28,15:00 (17:00),Matchweek 20,Sat,Away,L,0,3,Watford,51,601,65,199,251,156,20,601,10,19,52.6,16,5,379,30,Match Report
+20,2020-01-01,12:30 (14:30),Matchweek 21,Wed,Away,W,2,1,Burnley,38,472,79,208,178,94,14,472,5,10,50.0,11,2,239,18,Match Report
+21,2020-01-12,16:30 (18:30),Matchweek 22,Sun,Home,L,1,6,Manchester City,30,498,74,225,195,82,15,497,17,26,65.4,16,7,312,9,Match Report
+22,2020-01-18,15:00 (17:00),Matchweek 23,Sat,Away,D,1,1,Brighton,45,583,62,205,264,122,14,583,12,19,63.2,16,13,321,25,Match Report
+23,2020-01-21,19:30 (21:30),Matchweek 24,Tue,Home,W,2,1,Watford,64,742,62,217,341,191,31,742,11,21,52.4,23,11,487,33,Match Report
+24,2020-02-01,15:00 (17:00),Matchweek 25,Sat,Away,L,1,2,Bournemouth,60,627,58,199,263,171,35,627,10,16,62.5,17,6,377,33,Match Report
+25,For Aston Villa,For Aston Villa,For Aston Villa,For Aston Villa,For Aston Villa,For Aston Villa,For Aston Villa,For Aston Villa,For Aston Villa,For Aston Villa,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Dribbles,Dribbles,Dribbles,Dribbles,Dribbles,Receiving,Receiving,
+26,Date,Time,Round,Day,Venue,Result,GF,GA,Opponent,Poss,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Succ,Att,Succ%,Mis,Dis,Rec,Prog,Match Report
+27,2020-02-16,14:00 (16:00),Matchweek 26,Sun,Home,L,2,3,Tottenham,55,648,81,218,288,151,31,648,16,27,59.3,19,13,374,22,Match Report
+28,2020-02-22,15:00 (17:00),Matchweek 27,Sat,Away,L,0,2,Southampton,54,564,95,236,244,89,14,564,8,12,66.7,12,13,318,23,Match Report
+29,2020-03-09,20:00 (22:00),Matchweek 29,Mon,Away,L,0,4,Leicester City,36,464,71,187,224,58,4,464,5,15,33.3,14,14,231,14,Match Report
+30,2020-06-17,18:00 (19:00),Matchweek 28,Wed,Home,D,0,0,Sheffield Utd,46,532,45,195,219,122,21,532,11,17,64.7,10,12,333,22,Match Report
+31,2020-06-21,16:15 (17:15),Matchweek 30,Sun,Home,L,1,2,Chelsea,27,379,83,154,146,81,7,379,2,3,66.7,9,6,172,11,Match Report
+32,2020-06-24,18:00 (19:00),Matchweek 31,Wed,Away,D,1,1,Newcastle Utd,48,513,52,149,204,165,16,513,5,7,71.4,15,4,308,39,Match Report
+33,2020-06-27,12:30 (13:30),Matchweek 32,Sat,Home,L,0,1,Wolves,48,536,30,128,298,120,14,536,9,14,64.3,12,5,363,18,Match Report
+34,2020-07-05,16:30 (17:30),Matchweek 33,Sun,Away,L,0,2,Liverpool,30,415,73,183,148,95,12,415,9,12,75.0,17,4,192,22,Match Report
+35,2020-07-09,20:15 (21:15),Matchweek 34,Thu,Home,L,0,3,Manchester Utd,34,438,61,133,198,110,14,438,7,12,58.3,7,6,258,17,Match Report
+36,2020-07-12,14:15 (15:15),Matchweek 35,Sun,Home,W,2,0,Crystal Palace,45,447,63,156,186,110,17,447,8,14,57.1,10,9,249,25,Match Report
+37,2020-07-16,18:00 (19:00),Matchweek 36,Thu,Away,D,1,1,Everton,46,488,62,148,209,138,15,488,8,11,72.7,13,7,310,34,Match Report
+38,2020-07-21,20:15 (21:15),Matchweek 37,Tue,Home,W,1,0,Arsenal,31,406,73,159,151,101,16,406,7,7,100.0,13,3,209,15,Match Report
+39,2020-07-26,16:00 (17:00),Matchweek 38,Sun,Away,D,1,1,West Ham,38,415,42,115,210,98,15,415,3,9,33.3,12,9,213,16,Match Report
+40,,,,,,9-8-21,41,67,,44.1,19887,2668,7047,8158,4916,691,19884,352,569,61.9,546,313,11497,879,

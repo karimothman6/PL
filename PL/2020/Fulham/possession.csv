@@ -1,0 +1,43 @@
+,For Fulham,For Fulham,For Fulham,For Fulham,For Fulham,For Fulham,For Fulham,For Fulham,For Fulham,For Fulham,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Dribbles,Dribbles,Dribbles,Dribbles,Dribbles,Receiving,Receiving,Unnamed: 24_level_0
+,Date,Time,Round,Day,Venue,Result,GF,GA,Opponent,Poss,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Succ,Att,Succ%,Mis,Dis,Rec,Prog,Match Report
+0,2020-09-12,12:30 (13:30),Matchweek 1,Sat,Home,L,0,3,Arsenal,46,635,75,222,290,130,2,635,6,12,50.0,18,6,482,15,Match Report
+1,2020-09-19,15:00 (16:00),Matchweek 2,Sat,Away,L,3,4,Leeds United,49,612,55,194,280,151,13,611,20,29,69.0,29,13,372,24,Match Report
+2,2020-09-28,17:45 (18:45),Matchweek 3,Mon,Home,L,0,3,Aston Villa,64,703,53,202,308,197,29,703,22,36,61.1,18,9,489,40,Match Report
+3,2020-10-04,14:00 (15:00),Matchweek 4,Sun,Away,L,0,1,Wolves,52,671,49,208,314,153,17,671,10,12,83.3,17,7,483,25,Match Report
+4,2020-10-18,12:00 (13:00),Matchweek 5,Sun,Away,D,1,1,Sheffield Utd,58,706,65,233,349,133,19,705,15,23,65.2,11,7,500,26,Match Report
+5,2020-10-24,15:00 (16:00),Matchweek 6,Sat,Home,L,1,2,Crystal Palace,64,795,45,166,396,239,26,795,13,21,61.9,17,14,601,41,Match Report
+6,2020-11-02,17:30 (19:30),Matchweek 7,Mon,Home,W,2,0,West Brom,47,575,54,169,248,170,14,575,24,33,72.7,24,19,328,16,Match Report
+7,2020-11-07,20:00 (22:00),Matchweek 8,Sat,Away,L,0,1,West Ham,47,585,58,169,261,159,21,584,9,13,69.2,15,10,396,26,Match Report
+8,2020-11-22,12:00 (14:00),Matchweek 9,Sun,Home,L,2,3,Everton,54,778,55,206,332,243,21,777,19,23,82.6,22,18,556,37,Match Report
+9,2020-11-30,17:30 (19:30),Matchweek 10,Mon,Away,W,2,1,Leicester City,32,458,59,168,195,106,14,457,11,16,68.8,9,14,234,18,Match Report
+10,2020-12-05,15:00 (17:00),Matchweek 11,Sat,Away,L,0,2,Manchester City,31,488,87,202,207,90,5,488,19,24,79.2,16,12,285,8,Match Report
+11,2020-12-13,16:30 (18:30),Matchweek 12,Sun,Home,D,1,1,Liverpool,26,412,75,187,104,125,20,412,11,21,52.4,22,11,165,17,Match Report
+12,2020-12-16,20:00 (22:00),Matchweek 13,Wed,Home,D,0,0,Brighton,46,586,61,224,228,140,12,586,13,20,65.0,25,9,324,19,Match Report
+13,2020-12-19,20:00 (22:00),Matchweek 14,Sat,Away,D,1,1,Newcastle Utd,51,613,55,193,287,145,19,613,13,18,72.2,16,7,403,15,Match Report
+14,2020-12-26,15:00 (17:00),Matchweek 15,Sat,Home,D,0,0,Southampton,47,517,52,188,188,152,20,517,12,27,44.4,24,19,270,20,Match Report
+15,2021-01-13,20:15 (22:15),Matchweek 16,Wed,Away,D,1,1,Tottenham,47,613,58,173,308,136,20,613,18,28,64.3,18,4,383,30,Match Report
+16,2021-01-16,17:30 (19:30),Matchweek 19,Sat,Home,L,0,1,Chelsea,31,508,74,188,208,119,18,508,10,15,66.7,23,12,259,28,Match Report
+17,2021-01-20,20:15 (22:15),Matchweek 18,Wed,Home,L,1,2,Manchester Utd,38,564,85,258,226,88,14,564,11,19,57.9,18,10,335,20,Match Report
+18,2021-01-27,19:30 (21:30),Matchweek 20,Wed,Away,D,0,0,Brighton,50,586,72,216,277,98,14,586,11,20,55.0,17,14,343,18,Match Report
+19,2021-01-30,15:00 (17:00),Matchweek 21,Sat,Away,D,2,2,West Brom,62,710,56,262,305,150,17,710,10,15,66.7,16,8,480,26,Match Report
+20,2021-02-03,18:00 (20:00),Matchweek 22,Wed,Home,L,0,2,Leicester City,57,760,70,227,356,185,22,760,18,28,64.3,9,8,522,46,Match Report
+21,2021-02-06,17:30 (19:30),Matchweek 23,Sat,Home,D,0,0,West Ham,60,689,54,239,303,156,27,689,8,11,72.7,18,6,479,39,Match Report
+22,2021-02-14,19:00 (21:00),Matchweek 24,Sun,Away,W,2,0,Everton,50,680,51,198,305,187,27,680,8,14,57.1,15,11,485,25,Match Report
+23,2021-02-17,18:00 (20:00),Matchweek 17,Wed,Away,D,1,1,Burnley,53,607,56,238,293,82,13,607,9,13,69.2,19,6,359,12,Match Report
+24,2021-02-20,20:00 (22:00),Matchweek 25,Sat,Home,W,1,0,Sheffield Utd,64,747,57,243,326,189,27,747,26,39,66.7,24,7,518,22,Match Report
+25,For Fulham,For Fulham,For Fulham,For Fulham,For Fulham,For Fulham,For Fulham,For Fulham,For Fulham,For Fulham,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Dribbles,Dribbles,Dribbles,Dribbles,Dribbles,Receiving,Receiving,
+26,Date,Time,Round,Day,Venue,Result,GF,GA,Opponent,Poss,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Succ,Att,Succ%,Mis,Dis,Rec,Prog,Match Report
+27,2021-02-28,12:00 (14:00),Matchweek 26,Sun,Away,D,0,0,Crystal Palace,60,688,35,155,391,152,17,688,16,25,64.0,14,11,486,37,Match Report
+28,2021-03-04,18:00 (20:00),Matchweek 33,Thu,Home,L,0,1,Tottenham,60,707,59,240,316,160,29,707,19,28,67.9,24,12,477,31,Match Report
+29,2021-03-07,14:00 (16:00),Matchweek 27,Sun,Away,W,1,0,Liverpool,37,590,96,266,243,87,16,590,8,16,50.0,17,5,333,16,Match Report
+30,2021-03-13,20:00 (22:00),Matchweek 28,Sat,Home,L,0,3,Manchester City,46,580,75,241,234,109,12,580,12,24,50.0,20,8,378,21,Match Report
+31,2021-03-19,20:00 (22:00),Matchweek 29,Fri,Home,L,1,2,Leeds United,51,544,62,170,241,142,30,544,13,26,50.0,32,12,271,17,Match Report
+32,2021-04-04,16:30 (17:30),Matchweek 30,Sun,Away,L,1,3,Aston Villa,47,535,81,244,205,96,15,535,12,20,60.0,22,7,304,19,Match Report
+33,2021-04-09,20:00 (21:00),Matchweek 31,Fri,Home,L,0,1,Wolves,50,607,40,159,297,158,25,607,5,12,41.7,25,12,398,30,Match Report
+34,2021-04-18,13:30 (14:30),Matchweek 32,Sun,Away,D,1,1,Arsenal,31,410,96,216,141,60,10,409,11,21,52.4,11,8,218,8,Match Report
+35,2021-05-01,17:30 (18:30),Matchweek 34,Sat,Away,L,0,2,Chelsea,51,686,49,184,342,167,22,686,11,19,57.9,30,16,466,27,Match Report
+36,2021-05-10,20:00 (21:00),Matchweek 35,Mon,Home,L,0,2,Burnley,68,703,71,234,259,216,39,703,15,21,71.4,16,11,421,35,Match Report
+37,2021-05-15,15:00 (16:00),Matchweek 36,Sat,Away,L,1,3,Southampton,53,690,69,264,322,109,17,690,18,24,75.0,20,13,486,35,Match Report
+38,2021-05-18,18:00 (19:00),Matchweek 37,Tue,Away,D,1,1,Manchester Utd,43,557,102,303,181,77,12,557,13,17,76.5,19,9,348,16,Match Report
+39,2021-05-23,16:00 (17:00),Matchweek 38,Sun,Home,L,0,2,Newcastle Utd,64,744,43,188,322,238,23,744,7,12,58.3,11,8,556,35,Match Report
+40,,,,,,5-13-20,27,53,,49.7,23639,2409,8037,10388,5494,718,23633,506,795,63.6,721,393,15193,940,
