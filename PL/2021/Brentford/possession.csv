@@ -1,0 +1,43 @@
+,For Brentford,For Brentford,For Brentford,For Brentford,For Brentford,For Brentford,For Brentford,For Brentford,For Brentford,For Brentford,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Dribbles,Dribbles,Dribbles,Dribbles,Dribbles,Receiving,Receiving,Unnamed: 24_level_0
+,Date,Time,Round,Day,Venue,Result,GF,GA,Opponent,Poss,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Succ,Att,Succ%,Mis,Dis,Rec,Prog,Match Report
+0,2021-08-13,20:00 (21:00),Matchweek 1,Fri,Home,W,2,0,Arsenal,36,446,75,201,161,88,18,446,7,11,63.6,16,5,214,19,Match Report
+1,2021-08-21,15:00 (16:00),Matchweek 2,Sat,Away,D,0,0,Crystal Palace,47,539,68,198,222,124,14,539,9,13,69.2,21,11,288,21,Match Report
+2,2021-08-28,15:00 (16:00),Matchweek 3,Sat,Away,D,1,1,Aston Villa,54,563,91,267,210,88,20,563,5,12,41.7,13,6,355,21,Match Report
+3,2021-09-11,15:00 (16:00),Matchweek 4,Sat,Home,L,0,1,Brighton,41,485,58,215,172,100,13,485,8,9,88.9,20,15,264,18,Match Report
+4,2021-09-18,12:30 (13:30),Matchweek 5,Sat,Away,W,2,0,Wolves,38,459,79,214,167,81,11,458,8,14,57.1,14,3,252,15,Match Report
+5,2021-09-25,17:30 (18:30),Matchweek 6,Sat,Home,D,3,3,Liverpool,33,419,75,157,169,97,19,419,8,11,72.7,9,8,197,18,Match Report
+6,2021-10-03,14:00 (15:00),Matchweek 7,Sun,Away,W,2,1,West Ham,41,439,77,186,185,75,16,439,5,12,41.7,14,8,200,22,Match Report
+7,2021-10-16,17:30 (18:30),Matchweek 8,Sat,Home,L,0,1,Chelsea,45,573,79,202,209,165,38,573,11,18,61.1,18,13,338,27,Match Report
+8,2021-10-24,14:00 (15:00),Matchweek 9,Sun,Home,L,1,2,Leicester City,54,606,44,152,312,150,26,606,4,13,30.8,17,9,360,40,Match Report
+9,2021-10-30,15:00 (16:00),Matchweek 10,Sat,Away,L,1,3,Burnley,59,670,75,255,308,111,13,670,2,7,28.6,16,3,418,22,Match Report
+10,2021-11-06,15:00 (17:00),Matchweek 11,Sat,Home,L,1,2,Norwich City,64,729,49,175,344,212,43,729,10,15,66.7,20,11,468,33,Match Report
+11,2021-11-20,15:00 (17:00),Matchweek 12,Sat,Away,D,3,3,Newcastle Utd,47,504,94,197,205,108,20,504,2,8,25.0,12,7,244,21,Match Report
+12,2021-11-28,14:00 (16:00),Matchweek 13,Sun,Home,W,1,0,Everton,40,509,95,257,163,96,12,508,16,27,59.3,16,8,255,15,Match Report
+13,2021-12-02,19:30 (21:30),Matchweek 14,Thu,Away,L,0,2,Tottenham,53,665,72,254,305,112,20,665,4,6,66.7,12,6,431,20,Match Report
+14,2021-12-05,14:00 (16:00),Matchweek 15,Sun,Away,D,2,2,Leeds United,37,460,68,181,171,112,22,460,9,16,56.3,16,11,218,15,Match Report
+15,2021-12-10,20:00 (22:00),Matchweek 16,Fri,Home,W,2,1,Watford,63,631,48,181,292,163,28,630,6,13,46.2,16,10,376,40,Match Report
+16,2021-12-26,20:00 (22:00),Matchweek 19,Sun,Away,L,0,2,Brighton,50,612,79,244,252,123,29,612,15,18,83.3,15,10,369,19,Match Report
+17,2021-12-29,20:15 (22:15),Matchweek 20,Wed,Home,L,0,1,Manchester City,24,337,72,190,101,49,10,337,2,6,33.3,8,7,143,5,Match Report
+18,2022-01-02,14:00 (16:00),Matchweek 21,Sun,Home,W,2,1,Aston Villa,45,543,74,251,217,85,10,543,4,9,44.4,11,6,316,29,Match Report
+19,2022-01-11,19:45 (21:45),Matchweek 18,Tue,Away,L,1,4,Southampton,52,580,67,210,259,115,16,580,10,17,58.8,21,9,339,25,Match Report
+20,2022-01-16,14:00 (16:00),Matchweek 22,Sun,Away,L,0,3,Liverpool,32,497,108,230,200,70,8,497,6,12,50.0,11,3,221,16,Match Report
+21,2022-01-19,20:00 (22:00),Matchweek 17,Wed,Home,L,1,3,Manchester Utd,44,570,66,162,253,159,33,570,5,11,45.5,16,13,302,35,Match Report
+22,2022-01-22,15:00 (17:00),Matchweek 23,Sat,Home,L,1,2,Wolves,50,598,47,218,229,160,25,598,11,14,78.6,12,19,357,26,Match Report
+23,2022-02-09,19:45 (21:45),Matchweek 24,Wed,Away,L,0,2,Manchester City,26,364,82,171,143,56,10,364,3,8,37.5,11,2,148,7,Match Report
+24,2022-02-12,15:00 (17:00),Matchweek 25,Sat,Home,D,0,0,Crystal Palace,42,544,72,204,224,123,24,544,11,16,68.8,19,12,281,22,Match Report
+25,For Brentford,For Brentford,For Brentford,For Brentford,For Brentford,For Brentford,For Brentford,For Brentford,For Brentford,For Brentford,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Dribbles,Dribbles,Dribbles,Dribbles,Dribbles,Receiving,Receiving,
+26,Date,Time,Round,Day,Venue,Result,GF,GA,Opponent,Poss,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Succ,Att,Succ%,Mis,Dis,Rec,Prog,Match Report
+27,2022-02-19,15:00 (17:00),Matchweek 26,Sat,Away,L,1,2,Arsenal,34,466,114,248,165,55,9,466,6,11,54.5,10,9,229,14,Match Report
+28,2022-02-26,15:00 (17:00),Matchweek 27,Sat,Home,L,0,2,Newcastle Utd,37,444,75,142,184,120,14,444,5,13,38.5,20,5,218,19,Match Report
+29,2022-03-05,15:00 (17:00),Matchweek 28,Sat,Away,W,3,1,Norwich City,40,468,74,188,163,121,13,466,7,14,50.0,18,6,232,17,Match Report
+30,2022-03-12,15:00 (17:00),Matchweek 29,Sat,Home,W,2,0,Burnley,55,634,86,264,267,110,21,633,3,13,23.1,14,5,357,21,Match Report
+31,2022-03-20,14:00 (16:00),Matchweek 30,Sun,Away,L,1,2,Leicester City,48,592,67,220,226,152,35,592,11,16,68.8,17,9,397,38,Match Report
+32,2022-04-02,15:00 (16:00),Matchweek 31,Sat,Away,W,4,1,Chelsea,30,415,88,178,136,106,22,415,3,5,60.0,14,7,205,21,Match Report
+33,2022-04-10,14:00 (15:00),Matchweek 32,Sun,Home,W,2,0,West Ham,47,609,71,246,217,150,34,609,1,8,12.5,13,3,417,31,Match Report
+34,2022-04-16,15:00 (16:00),Matchweek 33,Sat,Away,W,2,1,Watford,50,563,66,214,192,165,26,563,12,21,57.1,22,4,319,21,Match Report
+35,2022-04-23,17:30 (18:30),Matchweek 34,Sat,Home,D,0,0,Tottenham,44,550,78,194,219,139,34,550,2,8,25.0,8,5,319,16,Match Report
+36,2022-05-02,20:00 (21:00),Matchweek 35,Mon,Away,L,0,3,Manchester Utd,37,496,58,160,185,153,22,496,6,12,50.0,11,5,326,32,Match Report
+37,2022-05-07,15:00 (16:00),Matchweek 36,Sat,Home,W,3,0,Southampton,41,479,75,183,182,117,32,479,10,21,47.6,11,6,246,27,Match Report
+38,2022-05-15,16:30 (17:30),Matchweek 37,Sun,Away,W,3,2,Everton,72,718,60,239,257,226,30,718,8,8,100.0,15,5,530,37,Match Report
+39,2022-05-22,16:00 (17:00),Matchweek 38,Sun,Home,L,1,2,Leeds United,49,564,64,200,290,79,17,564,7,10,70.0,16,7,343,24,Match Report
+40,,,,,,13-7-18,48,56,,44.8,20340,2790,7848,8156,4515,807,20334,262,476,55.0,563,291,11492,869,

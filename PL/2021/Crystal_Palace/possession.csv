@@ -1,0 +1,43 @@
+,For Crystal Palace,For Crystal Palace,For Crystal Palace,For Crystal Palace,For Crystal Palace,For Crystal Palace,For Crystal Palace,For Crystal Palace,For Crystal Palace,For Crystal Palace,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Dribbles,Dribbles,Dribbles,Dribbles,Dribbles,Receiving,Receiving,Unnamed: 24_level_0
+,Date,Time,Round,Day,Venue,Result,GF,GA,Opponent,Poss,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Succ,Att,Succ%,Mis,Dis,Rec,Prog,Match Report
+0,2019-08-10,15:00 (16:00),Matchweek 1,Sat,Home,D,0,0,Everton,36,422,44,141,176,112,15,422,8,12,66.7,11,10,176,16,Match Report
+1,2019-08-18,14:00 (15:00),Matchweek 2,Sun,Away,L,0,1,Sheffield Utd,57,663,64,232,297,136,11,663,10,20,50.0,15,10,425,34,Match Report
+2,2019-08-24,15:00 (16:00),Matchweek 3,Sat,Away,W,2,1,Manchester Utd,29,376,75,176,136,66,16,376,9,12,75.0,11,6,150,12,Match Report
+3,2019-08-31,15:00 (16:00),Matchweek 4,Sat,Home,W,1,0,Aston Villa,52,576,46,173,225,185,46,576,5,14,35.7,16,10,369,40,Match Report
+4,2019-09-14,15:00 (16:00),Matchweek 5,Sat,Away,L,0,4,Tottenham,36,493,69,198,221,77,23,493,8,9,88.9,20,10,293,23,Match Report
+5,2019-09-22,14:00 (15:00),Matchweek 6,Sun,Home,D,1,1,Wolves,51,629,55,201,269,168,27,629,22,32,68.8,13,21,388,29,Match Report
+6,2019-09-28,15:00 (16:00),Matchweek 7,Sat,Home,W,2,0,Norwich City,45,578,45,145,230,213,26,577,11,15,73.3,16,13,355,35,Match Report
+7,2019-10-05,17:30 (18:30),Matchweek 8,Sat,Away,W,2,1,West Ham,48,624,52,188,310,133,21,623,13,18,72.2,18,14,410,21,Match Report
+8,2019-10-19,17:30 (18:30),Matchweek 9,Sat,Home,L,0,2,Manchester City,29,437,84,184,159,100,11,437,11,13,84.6,20,9,216,12,Match Report
+9,2019-10-27,16:30 (18:30),Matchweek 10,Sun,Away,D,2,2,Arsenal,44,507,75,177,202,136,22,506,8,15,53.3,12,14,286,22,Match Report
+10,2019-11-03,14:00 (16:00),Matchweek 11,Sun,Home,L,0,2,Leicester City,45,498,43,168,221,116,12,498,13,20,65.0,20,15,291,28,Match Report
+11,2019-11-09,12:30 (14:30),Matchweek 12,Sat,Away,L,0,2,Chelsea,40,519,60,179,253,90,7,519,12,18,66.7,11,13,306,25,Match Report
+12,2019-11-23,15:00 (17:00),Matchweek 13,Sat,Home,L,1,2,Liverpool,40,511,79,207,180,127,25,511,9,17,52.9,11,16,273,19,Match Report
+13,2019-11-30,15:00 (17:00),Matchweek 14,Sat,Away,W,2,0,Burnley,56,641,73,243,301,105,18,641,11,22,50.0,16,9,377,30,Match Report
+14,2019-12-03,19:30 (21:30),Matchweek 15,Tue,Home,W,1,0,Bournemouth,32,417,70,142,156,122,25,417,11,18,61.1,14,19,205,14,Match Report
+15,2019-12-07,15:00 (17:00),Matchweek 16,Sat,Away,D,0,0,Watford,49,543,71,227,231,92,7,543,12,14,85.7,20,12,310,24,Match Report
+16,2019-12-16,19:45 (21:45),Matchweek 17,Mon,Home,D,1,1,Brighton,35,489,78,217,196,82,15,489,10,15,66.7,17,11,259,23,Match Report
+17,2019-12-21,15:00 (17:00),Matchweek 18,Sat,Away,L,0,1,Newcastle Utd,57,657,53,188,319,154,30,657,16,32,50.0,15,9,455,37,Match Report
+18,2019-12-26,15:00 (17:00),Matchweek 19,Thu,Home,W,2,1,West Ham,58,733,56,230,325,185,41,733,24,40,60.0,16,14,488,38,Match Report
+19,2019-12-28,15:00 (17:00),Matchweek 20,Sat,Away,D,1,1,Southampton,41,493,75,212,198,87,10,493,16,26,61.5,16,10,261,10,Match Report
+20,2020-01-01,17:30 (19:30),Matchweek 21,Wed,Away,D,1,1,Norwich City,59,695,42,163,315,225,33,695,9,17,52.9,15,22,458,24,Match Report
+21,2020-01-11,12:30 (14:30),Matchweek 22,Sat,Home,D,1,1,Arsenal,43,521,46,161,244,118,18,521,8,17,47.1,20,8,273,18,Match Report
+22,2020-01-18,15:00 (17:00),Matchweek 23,Sat,Away,D,2,2,Manchester City,28,419,110,213,157,52,12,419,14,20,70.0,9,7,181,12,Match Report
+23,2020-01-21,19:30 (21:30),Matchweek 24,Tue,Home,L,0,2,Southampton,45,552,62,226,239,93,19,552,16,27,59.3,23,11,267,25,Match Report
+24,2020-02-01,15:00 (17:00),Matchweek 25,Sat,Home,L,0,1,Sheffield Utd,61,678,55,217,303,168,26,678,5,13,38.5,14,12,448,29,Match Report
+25,For Crystal Palace,For Crystal Palace,For Crystal Palace,For Crystal Palace,For Crystal Palace,For Crystal Palace,For Crystal Palace,For Crystal Palace,For Crystal Palace,For Crystal Palace,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Dribbles,Dribbles,Dribbles,Dribbles,Dribbles,Receiving,Receiving,
+26,Date,Time,Round,Day,Venue,Result,GF,GA,Opponent,Poss,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Succ,Att,Succ%,Mis,Dis,Rec,Prog,Match Report
+27,2020-02-08,12:30 (14:30),Matchweek 26,Sat,Away,L,1,3,Everton,53,596,70,235,246,124,32,596,13,22,59.1,21,11,350,28,Match Report
+28,2020-02-22,15:00 (17:00),Matchweek 27,Sat,Home,W,1,0,Newcastle Utd,45,545,47,153,262,137,31,545,14,18,77.8,22,12,290,28,Match Report
+29,2020-02-29,12:30 (14:30),Matchweek 28,Sat,Away,W,1,0,Brighton,35,460,75,187,180,97,20,460,5,11,45.5,18,20,211,14,Match Report
+30,2020-03-07,15:00 (17:00),Matchweek 29,Sat,Home,W,1,0,Watford,44,559,90,235,198,137,22,559,14,23,60.9,12,13,283,21,Match Report
+31,2020-06-20,19:45 (20:45),Matchweek 30,Sat,Away,W,2,0,Bournemouth,42,502,57,184,207,116,14,502,9,14,64.3,15,13,276,19,Match Report
+32,2020-06-24,20:15 (21:15),Matchweek 31,Wed,Away,L,0,4,Liverpool,27,466,105,267,176,33,0,466,10,14,71.4,12,13,247,4,Match Report
+33,2020-06-29,20:00 (21:00),Matchweek 32,Mon,Home,L,0,1,Burnley,59,636,44,218,207,215,34,636,7,13,53.8,19,10,426,25,Match Report
+34,2020-07-04,15:00 (16:00),Matchweek 33,Sat,Away,L,0,3,Leicester City,48,596,44,165,330,111,12,596,14,23,60.9,20,20,384,22,Match Report
+35,2020-07-07,18:00 (19:00),Matchweek 34,Tue,Home,L,2,3,Chelsea,43,568,69,180,218,184,28,568,7,13,53.8,26,15,326,34,Match Report
+36,2020-07-12,14:15 (15:15),Matchweek 35,Sun,Away,L,0,2,Aston Villa,55,524,57,155,259,121,23,524,18,21,85.7,13,9,331,29,Match Report
+37,2020-07-16,20:15 (21:15),Matchweek 36,Thu,Home,L,0,2,Manchester Utd,41,566,74,157,272,147,20,566,14,20,70.0,16,8,356,28,Match Report
+38,2020-07-20,20:15 (21:15),Matchweek 37,Mon,Away,L,0,2,Wolves,47,556,49,185,273,102,13,556,8,14,57.1,16,12,347,18,Match Report
+39,2020-07-26,16:00 (17:00),Matchweek 38,Sun,Home,D,1,1,Tottenham,48,588,32,155,292,151,24,588,8,16,50.0,12,18,374,26,Match Report
+40,,,,,,11-10-17,31,50,,44.8,20833,2395,7284,8983,4817,789,20830,432,698,61.9,611,479,12121,896,

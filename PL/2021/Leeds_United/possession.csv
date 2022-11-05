@@ -1,0 +1,43 @@
+,For Leeds United,For Leeds United,For Leeds United,For Leeds United,For Leeds United,For Leeds United,For Leeds United,For Leeds United,For Leeds United,For Leeds United,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Dribbles,Dribbles,Dribbles,Dribbles,Dribbles,Receiving,Receiving,Unnamed: 24_level_0
+,Date,Time,Round,Day,Venue,Result,GF,GA,Opponent,Poss,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Succ,Att,Succ%,Mis,Dis,Rec,Prog,Match Report
+0,2020-09-12,17:30 (18:30),Matchweek 1,Sat,Away,L,3,4,Liverpool,51,659,126,360,222,82,13,659,9,13,69.2,21,9,378,19,Match Report
+1,2020-09-19,15:00 (16:00),Matchweek 2,Sat,Home,W,4,3,Fulham,51,599,64,245,241,121,17,598,12,17,70.6,25,13,364,23,Match Report
+2,2020-09-27,12:00 (13:00),Matchweek 3,Sun,Away,W,1,0,Sheffield Utd,64,748,68,242,324,189,20,748,7,14,50.0,18,16,505,35,Match Report
+3,2020-10-03,17:30 (18:30),Matchweek 4,Sat,Home,D,1,1,Manchester City,51,598,104,274,229,104,23,598,10,16,62.5,18,5,374,21,Match Report
+4,2020-10-19,20:00 (21:00),Matchweek 5,Mon,Home,L,0,1,Wolves,66,696,52,179,314,206,34,696,7,15,46.7,6,6,488,48,Match Report
+5,2020-10-23,20:00 (21:00),Matchweek 6,Fri,Away,W,3,0,Aston Villa,59,609,60,196,236,188,44,609,6,12,50.0,16,8,393,52,Match Report
+6,2020-11-02,20:00 (22:00),Matchweek 7,Mon,Home,L,1,4,Leicester City,67,796,42,172,421,208,22,796,10,16,62.5,18,14,568,39,Match Report
+7,2020-11-07,15:00 (17:00),Matchweek 8,Sat,Away,L,1,4,Crystal Palace,64,768,65,204,384,188,20,768,8,15,53.3,22,8,520,41,Match Report
+8,2020-11-22,16:30 (18:30),Matchweek 9,Sun,Home,D,0,0,Arsenal,66,753,45,167,351,241,36,753,4,6,66.7,7,8,539,42,Match Report
+9,2020-11-28,17:30 (19:30),Matchweek 10,Sat,Away,W,1,0,Everton,59,714,65,184,327,206,36,714,6,15,40.0,21,10,489,45,Match Report
+10,2020-12-05,20:00 (22:00),Matchweek 11,Sat,Away,L,1,3,Chelsea,54,649,77,238,304,112,15,649,13,17,76.5,23,16,417,22,Match Report
+11,2020-12-11,20:00 (22:00),Matchweek 12,Fri,Home,L,1,2,West Ham,63,704,80,266,275,169,20,703,11,13,84.6,19,10,488,32,Match Report
+12,2020-12-16,18:00 (20:00),Matchweek 13,Wed,Home,W,5,2,Newcastle Utd,68,692,56,173,291,237,45,692,7,11,63.6,16,4,469,47,Match Report
+13,2020-12-20,16:30 (18:30),Matchweek 14,Sun,Away,L,2,6,Manchester Utd,59,656,74,251,235,172,27,656,4,11,36.4,15,12,428,32,Match Report
+14,2020-12-27,12:00 (14:00),Matchweek 15,Sun,Home,W,1,0,Burnley,51,575,84,264,250,68,17,574,8,14,57.1,20,5,336,23,Match Report
+15,2020-12-29,18:00 (20:00),Matchweek 16,Tue,Away,W,5,0,West Brom,75,895,63,311,385,209,23,895,14,20,70.0,13,4,702,53,Match Report
+16,2021-01-02,12:30 (14:30),Matchweek 17,Sat,Away,L,0,3,Tottenham,63,752,80,272,323,167,31,752,12,27,44.4,19,9,514,35,Match Report
+17,2021-01-16,15:00 (17:00),Matchweek 19,Sat,Home,L,0,1,Brighton,66,751,63,234,347,175,21,751,18,20,90.0,16,8,526,34,Match Report
+18,2021-01-26,18:00 (20:00),Matchweek 20,Tue,Away,W,2,1,Newcastle Utd,58,598,85,265,219,119,23,598,8,10,80.0,19,9,357,17,Match Report
+19,2021-01-31,14:00 (16:00),Matchweek 21,Sun,Away,W,3,1,Leicester City,49,566,77,246,262,63,13,566,4,10,40.0,21,9,306,18,Match Report
+20,2021-02-03,19:30 (21:30),Matchweek 22,Wed,Home,L,1,2,Everton,63,721,56,219,286,218,29,721,9,15,60.0,23,7,493,44,Match Report
+21,2021-02-08,20:00 (22:00),Matchweek 23,Mon,Home,W,2,0,Crystal Palace,67,849,74,283,394,183,25,849,5,8,62.5,11,8,655,36,Match Report
+22,2021-02-14,16:30 (18:30),Matchweek 24,Sun,Away,L,2,4,Arsenal,54,626,101,253,256,121,17,626,7,8,87.5,21,4,411,25,Match Report
+23,2021-02-19,20:00 (22:00),Matchweek 25,Fri,Away,L,0,1,Wolves,58,593,55,232,231,132,27,593,4,14,28.6,13,7,384,19,Match Report
+24,2021-02-23,18:00 (20:00),Matchweek 18,Tue,Home,W,3,0,Southampton,46,473,69,252,159,68,21,473,6,15,40.0,16,9,244,16,Match Report
+25,For Leeds United,For Leeds United,For Leeds United,For Leeds United,For Leeds United,For Leeds United,For Leeds United,For Leeds United,For Leeds United,For Leeds United,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Dribbles,Dribbles,Dribbles,Dribbles,Dribbles,Receiving,Receiving,
+26,Date,Time,Round,Day,Venue,Result,GF,GA,Opponent,Poss,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Succ,Att,Succ%,Mis,Dis,Rec,Prog,Match Report
+27,2021-02-27,17:30 (19:30),Matchweek 26,Sat,Home,L,0,1,Aston Villa,69,665,51,221,275,176,21,665,8,16,50.0,18,8,440,32,Match Report
+28,2021-03-08,20:00 (22:00),Matchweek 27,Mon,Away,L,0,2,West Ham,65,679,67,197,353,138,24,679,6,12,50.0,25,8,466,48,Match Report
+29,2021-03-13,12:30 (14:30),Matchweek 28,Sat,Home,D,0,0,Chelsea,38,502,72,227,191,88,12,502,11,18,61.1,21,10,275,17,Match Report
+30,2021-03-19,20:00 (22:00),Matchweek 29,Fri,Away,W,2,1,Fulham,49,527,77,181,222,133,20,527,9,18,50.0,18,11,255,25,Match Report
+31,2021-04-03,15:00 (16:00),Matchweek 30,Sat,Home,W,2,1,Sheffield Utd,54,649,50,208,255,192,28,649,9,16,56.3,20,10,405,26,Match Report
+32,2021-04-10,12:30 (13:30),Matchweek 31,Sat,Away,W,2,1,Manchester City,29,395,111,230,119,51,7,395,8,15,53.3,15,1,184,10,Match Report
+33,2021-04-19,20:00 (21:00),Matchweek 32,Mon,Home,D,1,1,Liverpool,61,689,100,346,230,119,25,689,12,20,60.0,17,7,467,23,Match Report
+34,2021-04-25,14:00 (15:00),Matchweek 33,Sun,Home,D,0,0,Manchester Utd,44,532,76,269,178,91,13,532,6,12,50.0,17,10,322,16,Match Report
+35,2021-05-01,15:00 (16:00),Matchweek 34,Sat,Away,L,0,2,Brighton,58,619,70,218,270,140,12,619,14,21,66.7,19,4,415,35,Match Report
+36,2021-05-08,12:30 (13:30),Matchweek 35,Sat,Home,W,3,1,Tottenham,53,616,63,225,228,167,29,616,8,15,53.3,17,8,374,33,Match Report
+37,2021-05-15,12:30 (13:30),Matchweek 36,Sat,Away,W,4,0,Burnley,52,581,92,268,195,120,18,581,4,8,50.0,12,8,358,25,Match Report
+38,2021-05-18,18:00 (19:00),Matchweek 37,Tue,Away,W,2,0,Southampton,49,548,75,241,220,91,17,548,7,17,41.2,13,13,311,23,Match Report
+39,2021-05-23,16:00 (17:00),Matchweek 38,Sun,Home,W,3,1,West Brom,64,649,61,208,280,165,29,648,7,23,30.4,18,3,433,35,Match Report
+40,,,,,,18-5-15,62,54,,57.3,24691,2750,9021,10282,5617,874,24687,318,563,56.5,667,319,16053,1166,
