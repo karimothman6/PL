@@ -1,4 +1,4 @@
-# PL Visualizations
+# Team Visualizations
 
 1) [How was the title race by each gameweek?](https://htmlpreview.github.io/?https://github.com/karimothman6/PL/blob/main/Visualization/Title%20Race.html)
 
@@ -35,3 +35,6 @@
 17) [Which teams depends on other factors than passing in scoring goals?](https://htmlpreview.github.io/?https://github.com/karimothman6/PL/blob/main/Visualization/xG%20-%20xAG.html)
 
 18) [Which teams depends more on free kicks and corner kicks?](https://htmlpreview.github.io/?https://github.com/karimothman6/PL/blob/main/Visualization/Dead%20Passes.html)
+
+# Players Visualizations
+
