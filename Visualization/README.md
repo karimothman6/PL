@@ -38,3 +38,6 @@
 
 # Players Visualizations
 
+1) [How well players are doing with scoring goals besides effect of penalties?](https://htmlpreview.github.io/?https://github.com/karimothman6/PL/blob/main/Visualization/Penalty%20VS%20Goals.html)
+
+2) [Which players are overperforming and scoring more goals than expected?](https://htmlpreview.github.io/?https://github.com/karimothman6/PL/blob/main/Visualization/Goals%20-%20Expected%20Goals.html)
