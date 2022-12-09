@@ -26,7 +26,7 @@
 
 13) [Which teams had the most mistakes that lead to opponent's shots?](https://htmlpreview.github.io/?https://github.com/karimothman6/PL/blob/main/Visualization/Errors.html)
 
-14) [Which teams have more "Positive Position"?](https://htmlpreview.github.io/?https://github.com/karimothman6/PL/blob/main/Visualization/Positive%20Possession.html)
+14) [Which teams have more "Positive Possession"?](https://htmlpreview.github.io/?https://github.com/karimothman6/PL/blob/main/Visualization/Positive%20Possession.html)
 
 15) [Which teams were efficient in dribbling?](https://htmlpreview.github.io/?https://github.com/karimothman6/PL/blob/main/Visualization/Dribbling.html)
 
